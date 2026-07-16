@@ -1,0 +1,1142 @@
+[
+  {
+    "id": 1,
+    "section": "Mathematics",
+    "question": "(1+i)/(1-i) is equal to:",
+    "options": {
+      "A": "1",
+      "B": "-1",
+      "C": "i",
+      "D": "-i"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 2,
+    "section": "Mathematics",
+    "question": "If i = √-1, then i^37 + i^41 is:",
+    "options": {
+      "A": "0",
+      "B": "2i",
+      "C": "-2i",
+      "D": "2"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 3,
+    "section": "Mathematics",
+    "question": "If the roots of x² + px + q = 0 are reciprocal and non-zero, then:",
+    "options": {
+      "A": "p = 1",
+      "B": "q = 1",
+      "C": "p = q",
+      "D": "p + q = 1"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 4,
+    "section": "Mathematics",
+    "question": "The determinant | a  b ; ka  kb | is:",
+    "options": {
+      "A": "ab",
+      "B": "kab",
+      "C": "0",
+      "D": "a+b"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 5,
+    "section": "Mathematics",
+    "question": "If Sₙ = 3n² + 2n, then the nth term of the series is:",
+    "options": {
+      "A": "3n+2",
+      "B": "6n-1",
+      "C": "6n+1",
+      "D": "3n²-2n"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 6,
+    "section": "Mathematics",
+    "question": "In a positive G.P., if T₃ = 12 and T₅ = 48, then T₄ is:",
+    "options": {
+      "A": "18",
+      "B": "20",
+      "C": "24",
+      "D": "36"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 7,
+    "section": "Mathematics",
+    "question": "A polygon has 27 diagonals. The number of its sides is:",
+    "options": {
+      "A": "7",
+      "B": "8",
+      "C": "9",
+      "D": "10"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 8,
+    "section": "Mathematics",
+    "question": "If nP₂ = 42, then nC₂ is:",
+    "options": {
+      "A": "14",
+      "B": "21",
+      "C": "28",
+      "D": "42"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 9,
+    "section": "Mathematics",
+    "question": "The term independent of x in (x² + 1/x)^9 is:",
+    "options": {
+      "A": "36",
+      "B": "72",
+      "C": "84",
+      "D": "126"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 10,
+    "section": "Mathematics",
+    "question": "If the third term in the expansion of (1+x)^n is 45x², then n is:",
+    "options": {
+      "A": "8",
+      "B": "9",
+      "C": "10",
+      "D": "12"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 11,
+    "section": "Mathematics",
+    "question": "If sinθ + cosθ = √2, then sin2θ is:",
+    "options": {
+      "A": "0",
+      "B": "1/2",
+      "C": "1",
+      "D": "√2"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 12,
+    "section": "Mathematics",
+    "question": "If secθ + tanθ = 3, then cosθ is:",
+    "options": {
+      "A": "3/5",
+      "B": "4/5",
+      "C": "5/3",
+      "D": "1/3"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 13,
+    "section": "Mathematics",
+    "question": "The value of tan15° is:",
+    "options": {
+      "A": "2+√3",
+      "B": "2-√3",
+      "C": "√3-1",
+      "D": "√3+1"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 14,
+    "section": "Mathematics",
+    "question": "If logₓ 8 = 3/2, then x is:",
+    "options": {
+      "A": "2",
+      "B": "4",
+      "C": "8",
+      "D": "16"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 15,
+    "section": "Mathematics",
+    "question": "The domain of f(x)=√(4−x²) is:",
+    "options": {
+      "A": "x > 2",
+      "B": "x < -2",
+      "C": "-2 ≤ x ≤ 2",
+      "D": "all real numbers"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 16,
+    "section": "Mathematics",
+    "question": "The slope of a line perpendicular to 2x + 3y − 5 = 0 is:",
+    "options": {
+      "A": "-2/3",
+      "B": "2/3",
+      "C": "-3/2",
+      "D": "3/2"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 17,
+    "section": "Mathematics",
+    "question": "The length of intercept cut by 3x + 4y = 12 on the coordinate axes is:",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "7"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 18,
+    "section": "Mathematics",
+    "question": "The distance of point (3,4) from the line 3x + 4y − 25 = 0 is:",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "5",
+      "D": "25"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 19,
+    "section": "Mathematics",
+    "question": "The circle x² + y² − 6x + 8y + k = 0 touches the x-axis. Then k =",
+    "options": {
+      "A": "4",
+      "B": "9",
+      "C": "16",
+      "D": "25"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 20,
+    "section": "Mathematics",
+    "question": "The eccentricity of the ellipse 9x² + 25y² = 225 is:",
+    "options": {
+      "A": "3/5",
+      "B": "4/5",
+      "C": "5/4",
+      "D": "5/3"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 21,
+    "section": "Mathematics",
+    "question": "lim as x→4 of (√(x+5) − 3)/(x−4) is:",
+    "options": {
+      "A": "1/3",
+      "B": "1/6",
+      "C": "1/9",
+      "D": "does not exist"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 22,
+    "section": "Mathematics",
+    "question": "If y = xˣ, then dy/dx is:",
+    "options": {
+      "A": "x^(x−1)",
+      "B": "x^x ln x",
+      "C": "x^x(ln x + 1)",
+      "D": "x x^(x−1)"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 23,
+    "section": "Mathematics",
+    "question": "d/dx [ln(sin x)] is:",
+    "options": {
+      "A": "tan x",
+      "B": "cot x",
+      "C": "sec x",
+      "D": "−cot x"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 24,
+    "section": "Mathematics",
+    "question": "The function f(x)=|x| at x=0 is:",
+    "options": {
+      "A": "continuous but not differentiable",
+      "B": "differentiable but not continuous",
+      "C": "neither continuous nor differentiable",
+      "D": "discontinuous only"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 25,
+    "section": "Mathematics",
+    "question": "∫₀¹ 1/(1+x²) dx is:",
+    "options": {
+      "A": "π/2",
+      "B": "π/4",
+      "C": "1",
+      "D": "0"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 26,
+    "section": "Mathematics",
+    "question": "∫ e^(2x) dx is:",
+    "options": {
+      "A": "e^(2x)+C",
+      "B": "2e^(2x)+C",
+      "C": "(1/2)e^(2x)+C",
+      "D": "(1/2)e^x+C"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 27,
+    "section": "Mathematics",
+    "question": "The tangent to y=x² at x=2 is:",
+    "options": {
+      "A": "y=2x+4",
+      "B": "y=4x−4",
+      "C": "y=4x+4",
+      "D": "y=2x−4"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 28,
+    "section": "Mathematics",
+    "question": "The normal to y=x² at (1,1) is:",
+    "options": {
+      "A": "2x+y−3=0",
+      "B": "x+2y−3=0",
+      "C": "x−2y+1=0",
+      "D": "2x−y−1=0"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 29,
+    "section": "Mathematics",
+    "question": "If the area under y=2x from x=0 to x=a is 9, where a>0, then a =",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "9"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 30,
+    "section": "Mathematics",
+    "question": "The minimum value of x² + 1 is:",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "does not exist"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 31,
+    "section": "Mathematics",
+    "question": "If |a|=3, |b|=4, and angle between them is 60°, then a·b is:",
+    "options": {
+      "A": "6",
+      "B": "12",
+      "C": "6√3",
+      "D": "24"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 32,
+    "section": "Mathematics",
+    "question": "Scalar projection of a=2i+j on b=i+2j is:",
+    "options": {
+      "A": "4/5",
+      "B": "4/√5",
+      "C": "√5/4",
+      "D": "5"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 33,
+    "section": "Mathematics",
+    "question": "Lines ax+by+c=0 and kax+kby+d=0 are coincident if:",
+    "options": {
+      "A": "d=c",
+      "B": "d=kc",
+      "C": "k=d",
+      "D": "c=kd"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 34,
+    "section": "Mathematics",
+    "question": "The inverse of [[1,2],[3,4]] is:",
+    "options": {
+      "A": "[[-2,1],[3/2,-1/2]]",
+      "B": "[[2,-1],[-3/2,1/2]]",
+      "C": "[[4,-2],[-3,1]]",
+      "D": "[[1,-2],[-3,4]]"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 35,
+    "section": "Mathematics",
+    "question": "sin⁻¹(sin(5π/6)) is:",
+    "options": {
+      "A": "5π/6",
+      "B": "π/6",
+      "C": "−π/6",
+      "D": "7π/6"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 36,
+    "section": "Physics",
+    "question": "A screw gauge has pitch 0.5 mm and 50 divisions on circular scale. Its least count is:",
+    "options": {
+      "A": "0.5 mm",
+      "B": "0.05 mm",
+      "C": "0.01 mm",
+      "D": "0.001 mm"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 37,
+    "section": "Physics",
+    "question": "Dimensional formula of Planck’s constant is:",
+    "options": {
+      "A": "[MLT⁻¹]",
+      "B": "[ML²T⁻¹]",
+      "C": "[ML²T⁻²]",
+      "D": "[M⁰L²T⁻¹]"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 38,
+    "section": "Physics",
+    "question": "If Z=A²/B³, percentage errors in A and B are 2% and 1% respectively. Percentage error in Z is:",
+    "options": {
+      "A": "3%",
+      "B": "5%",
+      "C": "7%",
+      "D": "9%"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 39,
+    "section": "Physics",
+    "question": "Number of significant figures in 0.05020 is:",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 40,
+    "section": "Physics",
+    "question": "If A+B = A−B, then:",
+    "options": {
+      "A": "A=0",
+      "B": "B=0",
+      "C": "A=B",
+      "D": "A=-B"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 41,
+    "section": "Physics",
+    "question": "Resultant of two equal forces is equal to either force. The angle between forces is:",
+    "options": {
+      "A": "60°",
+      "B": "90°",
+      "C": "120°",
+      "D": "180°"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 42,
+    "section": "Physics",
+    "question": "Torque of a force is zero when:",
+    "options": {
+      "A": "force is maximum",
+      "B": "force is parallel to axis",
+      "C": "line of action passes through axis",
+      "D": "body is moving in a circle"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 43,
+    "section": "Physics",
+    "question": "At highest point of an oblique projectile, which one is zero?",
+    "options": {
+      "A": "acceleration",
+      "B": "horizontal velocity",
+      "C": "vertical velocity",
+      "D": "kinetic energy"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 44,
+    "section": "Physics",
+    "question": "A body is projected vertically upward with speed u. Its total time of flight is:",
+    "options": {
+      "A": "u/g",
+      "B": "2u/g",
+      "C": "u/2g",
+      "D": "g/u"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 45,
+    "section": "Physics",
+    "question": "Distance covered by a freely falling body from rest during 5th second, taking g=10 m/s², is:",
+    "options": {
+      "A": "25 m",
+      "B": "35 m",
+      "C": "45 m",
+      "D": "50 m"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 46,
+    "section": "Physics",
+    "question": "One newton is equal to:",
+    "options": {
+      "A": "10³ dyne",
+      "B": "10⁴ dyne",
+      "C": "10⁵ dyne",
+      "D": "10⁶ dyne"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 47,
+    "section": "Physics",
+    "question": "If momentum of a body is doubled while mass remains same, its kinetic energy becomes:",
+    "options": {
+      "A": "half",
+      "B": "double",
+      "C": "four times",
+      "D": "unchanged"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 48,
+    "section": "Physics",
+    "question": "A force of 10 N acts on 2 kg mass for 3 s initially at rest. Final momentum is:",
+    "options": {
+      "A": "10 kg m/s",
+      "B": "20 kg m/s",
+      "C": "30 kg m/s",
+      "D": "60 kg m/s"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 49,
+    "section": "Physics",
+    "question": "Coefficient of restitution is zero for:",
+    "options": {
+      "A": "perfectly elastic collision",
+      "B": "perfectly inelastic collision",
+      "C": "oblique collision only",
+      "D": "head-on elastic collision"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 50,
+    "section": "Physics",
+    "question": "Work done by centripetal force in uniform circular motion is:",
+    "options": {
+      "A": "maximum",
+      "B": "minimum but non-zero",
+      "C": "zero",
+      "D": "equal to kinetic energy"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 51,
+    "section": "Physics",
+    "question": "A force of 20 N moves a body with constant velocity 4 m/s in the direction of force. Power is:",
+    "options": {
+      "A": "5 W",
+      "B": "16 W",
+      "C": "24 W",
+      "D": "80 W"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 52,
+    "section": "Physics",
+    "question": "A body of mass 2 kg is raised through 5 m. Increase in P.E. is, g=9.8 m/s²:",
+    "options": {
+      "A": "49 J",
+      "B": "98 J",
+      "C": "196 J",
+      "D": "9.8 J"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 53,
+    "section": "Physics",
+    "question": "In an inelastic collision, which quantity is always conserved for an isolated system?",
+    "options": {
+      "A": "kinetic energy",
+      "B": "mechanical energy",
+      "C": "linear momentum",
+      "D": "velocity"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 54,
+    "section": "Physics",
+    "question": "Angular displacement in 2 s of a wheel rotating at 600 rpm is:",
+    "options": {
+      "A": "20π rad",
+      "B": "30π rad",
+      "C": "40π rad",
+      "D": "60π rad"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 55,
+    "section": "Physics",
+    "question": "If speed is doubled in a circular path of same radius, centripetal acceleration becomes:",
+    "options": {
+      "A": "half",
+      "B": "double",
+      "C": "four times",
+      "D": "unchanged"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 56,
+    "section": "Physics",
+    "question": "Moment of inertia of a ring about its diameter is:",
+    "options": {
+      "A": "MR²",
+      "B": "1/2 MR²",
+      "C": "2/5 MR²",
+      "D": "1/12 MR²"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 57,
+    "section": "Physics",
+    "question": "If no external torque acts and moment of inertia becomes twice, angular velocity becomes:",
+    "options": {
+      "A": "twice",
+      "B": "half",
+      "C": "four times",
+      "D": "zero"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 58,
+    "section": "Physics",
+    "question": "A body moving in a circle with constant speed has:",
+    "options": {
+      "A": "constant velocity",
+      "B": "zero acceleration",
+      "C": "acceleration towards centre",
+      "D": "acceleration along tangent only"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 59,
+    "section": "Physics",
+    "question": "A satellite close to earth has orbital velocity v. If orbital radius becomes four times, velocity becomes:",
+    "options": {
+      "A": "v/2",
+      "B": "2v",
+      "C": "v/4",
+      "D": "4v"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 60,
+    "section": "Physics",
+    "question": "SI unit of coefficient of viscosity is:",
+    "options": {
+      "A": "Nm⁻¹",
+      "B": "N s m⁻²",
+      "C": "Nm⁻²",
+      "D": "kg m⁻¹"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 61,
+    "section": "Physics",
+    "question": "According to equation of continuity, if area of pipe becomes half, speed of liquid becomes:",
+    "options": {
+      "A": "half",
+      "B": "double",
+      "C": "four times",
+      "D": "unchanged"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 62,
+    "section": "Physics",
+    "question": "In Bernoulli’s theorem, at a point where speed of ideal fluid is maximum, pressure is generally:",
+    "options": {
+      "A": "maximum",
+      "B": "minimum",
+      "C": "unchanged",
+      "D": "zero always"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 63,
+    "section": "Physics",
+    "question": "Terminal velocity of a small sphere falling in viscous liquid is proportional to:",
+    "options": {
+      "A": "r",
+      "B": "r²",
+      "C": "1/r",
+      "D": "1/r²"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 64,
+    "section": "Physics",
+    "question": "If radius of a raindrop is doubled, its terminal velocity under Stokes’ law becomes:",
+    "options": {
+      "A": "half",
+      "B": "double",
+      "C": "four times",
+      "D": "eight times"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 65,
+    "section": "Physics",
+    "question": "In S.H.M., when displacement is A/2, the ratio of kinetic energy to total energy is:",
+    "options": {
+      "A": "1/4",
+      "B": "1/2",
+      "C": "3/4",
+      "D": "1"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 66,
+    "section": "Physics",
+    "question": "A simple pendulum is taken to a lift accelerating upward. Its time period:",
+    "options": {
+      "A": "increases",
+      "B": "decreases",
+      "C": "remains same",
+      "D": "becomes infinite"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 67,
+    "section": "Physics",
+    "question": "If length of simple pendulum is made four times, its frequency becomes:",
+    "options": {
+      "A": "double",
+      "B": "half",
+      "C": "four times",
+      "D": "unchanged"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 68,
+    "section": "Physics",
+    "question": "A spring is cut into two equal halves. Spring constant of each half becomes:",
+    "options": {
+      "A": "k/2",
+      "B": "k",
+      "C": "2k",
+      "D": "4k"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 69,
+    "section": "Physics",
+    "question": "Velocity of wave on a stretched string is doubled if tension is made:",
+    "options": {
+      "A": "double",
+      "B": "four times",
+      "C": "half",
+      "D": "one-fourth"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 70,
+    "section": "Physics",
+    "question": "Distance between two consecutive nodes in a stationary wave is:",
+    "options": {
+      "A": "λ/4",
+      "B": "λ/2",
+      "C": "λ",
+      "D": "2λ"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 71,
+    "section": "Physics",
+    "question": "Fundamental frequency of a closed pipe of length L is:",
+    "options": {
+      "A": "v/2L",
+      "B": "v/4L",
+      "C": "v/L",
+      "D": "2v/L"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 72,
+    "section": "Physics",
+    "question": "A source of sound moves towards a stationary observer. Apparent frequency is:",
+    "options": {
+      "A": "smaller than real frequency",
+      "B": "greater than real frequency",
+      "C": "equal to real frequency",
+      "D": "zero"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 73,
+    "section": "Physics",
+    "question": "If intensity of sound becomes 100 times, sound level increases by:",
+    "options": {
+      "A": "10 dB",
+      "B": "20 dB",
+      "C": "40 dB",
+      "D": "100 dB"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 74,
+    "section": "Physics",
+    "question": "When light passes from air to glass, its:",
+    "options": {
+      "A": "frequency decreases",
+      "B": "frequency increases",
+      "C": "frequency remains same",
+      "D": "wavelength remains same"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 75,
+    "section": "Physics",
+    "question": "Critical angle for glass of refractive index √2 with air is:",
+    "options": {
+      "A": "30°",
+      "B": "45°",
+      "C": "60°",
+      "D": "90°"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 76,
+    "section": "Physics",
+    "question": "In Young’s double slit experiment, if slit separation is doubled, fringe width becomes:",
+    "options": {
+      "A": "half",
+      "B": "double",
+      "C": "four times",
+      "D": "unchanged"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 77,
+    "section": "Physics",
+    "question": "Polarization of light proves that light is:",
+    "options": {
+      "A": "longitudinal wave",
+      "B": "transverse wave",
+      "C": "mechanical wave",
+      "D": "sound wave"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 78,
+    "section": "Physics",
+    "question": "Brewster’s law is:",
+    "options": {
+      "A": "μ = sin i / sin r",
+      "B": "μ = tan iₚ",
+      "C": "μ = 1/sin C",
+      "D": "μ = v/c"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 79,
+    "section": "Physics",
+    "question": "In an isothermal process for an ideal gas, change in internal energy is:",
+    "options": {
+      "A": "positive",
+      "B": "negative",
+      "C": "zero",
+      "D": "infinite"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 80,
+    "section": "Physics",
+    "question": "Efficiency of a Carnot engine operating between 600 K and 300 K is:",
+    "options": {
+      "A": "25%",
+      "B": "50%",
+      "C": "75%",
+      "D": "100%"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 81,
+    "section": "English",
+    "question": "Choose the correct sentence:",
+    "options": {
+      "A": "Neither of the boys were present.",
+      "B": "Neither of the boys was present.",
+      "C": "Neither boys was present.",
+      "D": "Neither boys were present."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 82,
+    "section": "English",
+    "question": "No sooner ___ the bell rung than the students left.",
+    "options": {
+      "A": "had",
+      "B": "has",
+      "C": "did",
+      "D": "was"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 83,
+    "section": "English",
+    "question": "I prefer tea ___ coffee.",
+    "options": {
+      "A": "than",
+      "B": "from",
+      "C": "to",
+      "D": "over"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 84,
+    "section": "English",
+    "question": "Choose the correct indirect narration: He said, “I have finished my work.”",
+    "options": {
+      "A": "He said that he finished his work.",
+      "B": "He said that he had finished his work.",
+      "C": "He said that I had finished my work.",
+      "D": "He said that he has finished his work."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 85,
+    "section": "English",
+    "question": "Choose the correct passive voice: “Who wrote this letter?”",
+    "options": {
+      "A": "By whom this letter was written?",
+      "B": "By whom was this letter written?",
+      "C": "This letter was written by whom?",
+      "D": "Who was written this letter?"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 86,
+    "section": "English",
+    "question": "Choose the correct sentence:",
+    "options": {
+      "A": "I wish I was a king.",
+      "B": "I wish I were a king.",
+      "C": "I wish I am a king.",
+      "D": "I wish I will be a king."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 87,
+    "section": "English",
+    "question": "It is between you and ___.",
+    "options": {
+      "A": "I",
+      "B": "me",
+      "C": "myself",
+      "D": "mine"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 88,
+    "section": "English",
+    "question": "Hardly had he reached the station ___ the train left.",
+    "options": {
+      "A": "than",
+      "B": "when",
+      "C": "then",
+      "D": "so"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 89,
+    "section": "English",
+    "question": "If I had known the truth, I ___ helped him.",
+    "options": {
+      "A": "will not have",
+      "B": "would not have",
+      "C": "would not",
+      "D": "had not"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 90,
+    "section": "English",
+    "question": "Choose the correctly spelled word:",
+    "options": {
+      "A": "occassion",
+      "B": "ocasion",
+      "C": "occasion",
+      "D": "occation"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 91,
+    "section": "English",
+    "question": "Synonym of “abundant” is:",
+    "options": {
+      "A": "scarce",
+      "B": "plentiful",
+      "C": "weak",
+      "D": "narrow"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 92,
+    "section": "English",
+    "question": "Antonym of “reluctant” is:",
+    "options": {
+      "A": "willing",
+      "B": "unwilling",
+      "C": "hesitant",
+      "D": "doubtful"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 93,
+    "section": "English",
+    "question": "“To smell a rat” means:",
+    "options": {
+      "A": "to be afraid",
+      "B": "to suspect something wrong",
+      "C": "to run away",
+      "D": "to search carefully"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 94,
+    "section": "English",
+    "question": "Mathematics ___ my favourite subject.",
+    "options": {
+      "A": "are",
+      "B": "were",
+      "C": "is",
+      "D": "have been"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 95,
+    "section": "English",
+    "question": "Choose the correct sentence:",
+    "options": {
+      "A": "The teacher, along with his students, are present.",
+      "B": "The teacher, along with his students, is present.",
+      "C": "The teacher along with his students were present.",
+      "D": "The teacher along his students is present."
+    },
+    "answer": "B"
+  }
+]
