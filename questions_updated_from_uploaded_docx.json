@@ -1,0 +1,1142 @@
+[
+  {
+    "id": 1,
+    "section": "Mathematics",
+    "question": "The value of $\\frac{1-i}{1+i}$ is:",
+    "options": {
+      "A": "$i$",
+      "B": "$-i$",
+      "C": "$1$",
+      "D": "$-1$"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 2,
+    "section": "Mathematics",
+    "question": "If $z=x+iy$ and $|z-2|=|z+2|$, then the locus of $z$ is:",
+    "options": {
+      "A": "$x=2$",
+      "B": "$y=0$",
+      "C": "$x=0$",
+      "D": "$x+y=0$"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 3,
+    "section": "Mathematics",
+    "question": "The determinant $\\begin{vmatrix}1&1&1\\\\1&2&4\\\\1&4&16\\end{vmatrix}$ is:",
+    "options": {
+      "A": "$2$",
+      "B": "$4$",
+      "C": "$6$",
+      "D": "$8$"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 4,
+    "section": "Mathematics",
+    "question": "For which value of $k$ is the system $x+2y=3$, $2x+4y=k$ consistent?",
+    "options": {
+      "A": "$3$",
+      "B": "$4$",
+      "C": "$5$",
+      "D": "$6$"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 5,
+    "section": "Mathematics",
+    "question": "If the roots of $x^2-5x+6=0$ are $\\alpha$ and $\\beta$, then the equation whose roots are $\\frac{1}{\\alpha}$ and $\\frac{1}{\\beta}$ is:",
+    "options": {
+      "A": "$x^2-5x+6=0$",
+      "B": "$x^2-6x+5=0$",
+      "C": "$6x^2-5x+1=0$",
+      "D": "$x^2+5x+6=0$"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 6,
+    "section": "Mathematics",
+    "question": "If $A$ is a nonsingular square matrix and $A^2=I$, then $A^{-1}$ is:",
+    "options": {
+      "A": "$A$",
+      "B": "$I$",
+      "C": "$A^2$",
+      "D": "$0$"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 7,
+    "section": "Mathematics",
+    "question": "If $S_n=n^2+2n$ is the sum of first $n$ terms of a sequence, then the 10th term is:",
+    "options": {
+      "A": "$19$",
+      "B": "$20$",
+      "C": "$21$",
+      "D": "$22$"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 8,
+    "section": "Mathematics",
+    "question": "Three positive numbers are in G.P., their sum is $13$ and their product is $27$. The greatest number is:",
+    "options": {
+      "A": "$3$",
+      "B": "$6$",
+      "C": "$9$",
+      "D": "$12$"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 9,
+    "section": "Mathematics",
+    "question": "The coefficient of $x^3$ in the expansion of $(1+2x)^6$ is:",
+    "options": {
+      "A": "$80$",
+      "B": "$120$",
+      "C": "$160$",
+      "D": "$240$"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 10,
+    "section": "Mathematics",
+    "question": "If ${}^nC_2=45$, then $n$ is:",
+    "options": {
+      "A": "$9$",
+      "B": "$10$",
+      "C": "$11$",
+      "D": "$12$"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 11,
+    "section": "Mathematics",
+    "question": "A bag contains $5$ red and $4$ black balls. Two balls are drawn without replacement. The probability that both are of the same colour is:",
+    "options": {
+      "A": "$\\frac{1}{3}$",
+      "B": "$\\frac{4}{9}$",
+      "C": "$\\frac{5}{9}$",
+      "D": "$\\frac{2}{3}$"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 12,
+    "section": "Mathematics",
+    "question": "The term independent of $x$ in the expansion of $\\left(x^2+\\frac{1}{x}\\right)^9$ has coefficient:",
+    "options": {
+      "A": "$36$",
+      "B": "$72$",
+      "C": "$84$",
+      "D": "$126$"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 13,
+    "section": "Mathematics",
+    "question": "$\\tan^{-1}1+\\tan^{-1}2+\\tan^{-1}3$ is equal to:",
+    "options": {
+      "A": "$\\frac{\\pi}{2}$",
+      "B": "$\\frac{2\\pi}{3}$",
+      "C": "$\\frac{3\\pi}{4}$",
+      "D": "$\\pi$"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 14,
+    "section": "Mathematics",
+    "question": "$\\sin20^\\circ\\cos40^\\circ+\\cos20^\\circ\\sin40^\\circ$ is equal to:",
+    "options": {
+      "A": "$\\frac{1}{2}$",
+      "B": "$\\frac{\\sqrt3}{2}$",
+      "C": "$1$",
+      "D": "$0$"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 15,
+    "section": "Mathematics",
+    "question": "If $\\cos\\theta=\\frac{3}{5}$ and $\\theta$ lies in the fourth quadrant, then $\\tan\\theta$ is:",
+    "options": {
+      "A": "$\\frac{4}{3}$",
+      "B": "$-\\frac{4}{3}$",
+      "C": "$\\frac{3}{4}$",
+      "D": "$-\\frac{3}{4}$"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 16,
+    "section": "Mathematics",
+    "question": "If $\\log_x8=\\frac{3}{2}$, then $x$ is:",
+    "options": {
+      "A": "$2$",
+      "B": "$4$",
+      "C": "$8$",
+      "D": "$16$"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 17,
+    "section": "Mathematics",
+    "question": "The domain of $f(x)=\\sqrt{\\frac{x-1}{x+2}}$ is:",
+    "options": {
+      "A": "$(-2,1)$",
+      "B": "$(-\\infty,-2)\\cup[1,\\infty)$",
+      "C": "$[-2,1]$",
+      "D": "all real numbers except $-2$"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 18,
+    "section": "Mathematics",
+    "question": "For $f(x)=\\frac{2x-3}{x+1}$, the value of $f^{-1}(1)$ is:",
+    "options": {
+      "A": "$1$",
+      "B": "$2$",
+      "C": "$3$",
+      "D": "$4$"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 19,
+    "section": "Mathematics",
+    "question": "$\\displaystyle\\lim_{x\\to4}\\frac{\\sqrt{x+5}-3}{x-4}$ is:",
+    "options": {
+      "A": "$\\frac{1}{3}$",
+      "B": "$\\frac{1}{6}$",
+      "C": "$\\frac{1}{9}$",
+      "D": "$0$"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 20,
+    "section": "Mathematics",
+    "question": "The derivative of $x^x$, $x>0$, is:",
+    "options": {
+      "A": "$x^{x-1}$",
+      "B": "$x^x\\ln x$",
+      "C": "$x^x(\\ln x+1)$",
+      "D": "$x\\cdot x^{x-1}$"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 21,
+    "section": "Mathematics",
+    "question": "If $y=\\sin^{-1}(2x)$, then $\\frac{dy}{dx}$ at $x=\\frac{1}{4}$ is:",
+    "options": {
+      "A": "$\\frac{2}{\\sqrt3}$",
+      "B": "$\\frac{4}{\\sqrt3}$",
+      "C": "$\\frac{\\sqrt3}{4}$",
+      "D": "$\\frac{1}{\\sqrt3}$"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 22,
+    "section": "Mathematics",
+    "question": "$\\frac{d}{dx}\\ln(\\sin x)$ is:",
+    "options": {
+      "A": "$\\tan x$",
+      "B": "$\\cot x$",
+      "C": "$\\sec x$",
+      "D": "$\\csc x$"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 23,
+    "section": "Mathematics",
+    "question": "For $f(x)=x^3-3x$, the local maximum value is:",
+    "options": {
+      "A": "$-2$",
+      "B": "$0$",
+      "C": "$2$",
+      "D": "$3$"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 24,
+    "section": "Mathematics",
+    "question": "Integral of $\\frac{x}{x^2+1}$ is:",
+    "options": {
+      "A": "$\\ln(x^2+1)+C$",
+      "B": "$\\frac{1}{2}\\ln(x^2+1)+C$",
+      "C": "$\\frac{1}{x^2+1}+C$",
+      "D": "$\\tan^{-1}x+C$"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 25,
+    "section": "Mathematics",
+    "question": "Integral from $0$ to $\\frac{\\pi}{2}$ of $\\sin^2x\\,dx$ is:",
+    "options": {
+      "A": "$\\frac{\\pi}{8}$",
+      "B": "$\\frac{\\pi}{4}$",
+      "C": "$\\frac{\\pi}{2}$",
+      "D": "$1$"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 26,
+    "section": "Mathematics",
+    "question": "The area under $y=x^2$ from $x=0$ to $x=2$ is:",
+    "options": {
+      "A": "$\\frac{4}{3}$",
+      "B": "$2$",
+      "C": "$\\frac{8}{3}$",
+      "D": "$4$"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 27,
+    "section": "Mathematics",
+    "question": "The tangent to $y=x^2$ at $(1,1)$ is:",
+    "options": {
+      "A": "$x-2y+1=0$",
+      "B": "$2x-y-1=0$",
+      "C": "$x+y-2=0$",
+      "D": "$2x+y-3=0$"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 28,
+    "section": "Mathematics",
+    "question": "The radius of the circle $x^2+y^2-4x+6y-12=0$ is:",
+    "options": {
+      "A": "$3$",
+      "B": "$4$",
+      "C": "$5$",
+      "D": "$6$"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 29,
+    "section": "Mathematics",
+    "question": "The distance of the point $(3,4)$ from the line $3x+4y-10=0$ is:",
+    "options": {
+      "A": "$1$",
+      "B": "$2$",
+      "C": "$3$",
+      "D": "$5$"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 30,
+    "section": "Mathematics",
+    "question": "If $ax+2y+3=0$ is parallel to $3x+6y+1=0$, then $a$ is:",
+    "options": {
+      "A": "$1$",
+      "B": "$2$",
+      "C": "$3$",
+      "D": "$6$"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 31,
+    "section": "Mathematics",
+    "question": "The eccentricity of the ellipse $\\frac{x^2}{16}+\\frac{y^2}{9}=1$ is:",
+    "options": {
+      "A": "$\\frac{3}{4}$",
+      "B": "$\\frac{\\sqrt7}{4}$",
+      "C": "$\\frac{7}{16}$",
+      "D": "$\\frac{1}{4}$"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 32,
+    "section": "Mathematics",
+    "question": "The length of transverse axis of $\\frac{x^2}{9}-\\frac{y^2}{16}=1$ is:",
+    "options": {
+      "A": "$3$",
+      "B": "$6$",
+      "C": "$8$",
+      "D": "$16$"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 33,
+    "section": "Mathematics",
+    "question": "If $\\vec a$ and $\\vec b$ are unit vectors with angle $60^\\circ$ between them, then $|\\vec a+\\vec b|$ is:",
+    "options": {
+      "A": "$1$",
+      "B": "$\\sqrt2$",
+      "C": "$\\sqrt3$",
+      "D": "$2$"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 34,
+    "section": "Mathematics",
+    "question": "Vectors $(2,k)$ and $(3,6)$ are perpendicular. The value of $k$ is:",
+    "options": {
+      "A": "$-2$",
+      "B": "$-1$",
+      "C": "$1$",
+      "D": "$2$"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 35,
+    "section": "Mathematics",
+    "question": "Maximize $Z=3x+2y$ subject to $x+y\\leq4$, $x\\leq2$, $y\\leq3$, $x\\geq0$, $y\\geq0$. The maximum value of $Z$ is:",
+    "options": {
+      "A": "$8$",
+      "B": "$9$",
+      "C": "$10$",
+      "D": "$12$"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 36,
+    "section": "Physics",
+    "question": "The number of significant figures in $7.050\\times10^{-3}$ is:",
+    "options": {
+      "A": "$2$",
+      "B": "$3$",
+      "C": "$4$",
+      "D": "$5$"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 37,
+    "section": "Physics",
+    "question": "The dimensional formula of coefficient of viscosity is:",
+    "options": {
+      "A": "$[MLT^{-1}]$",
+      "B": "$[ML^{-1}T^{-1}]$",
+      "C": "$[ML^2T^{-2}]$",
+      "D": "$[M^0LT^{-2}]$"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 38,
+    "section": "Physics",
+    "question": "A screw gauge has pitch $0.5\\,\\mathrm{mm}$ and $50$ circular-scale divisions. Its least count is:",
+    "options": {
+      "A": "$0.5\\,\\mathrm{mm}$",
+      "B": "$0.05\\,\\mathrm{mm}$",
+      "C": "$0.01\\,\\mathrm{mm}$",
+      "D": "$0.001\\,\\mathrm{mm}$"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 39,
+    "section": "Physics",
+    "question": "Length $=5.0\\pm0.1\\,\\mathrm{cm}$ and breadth $=2.0\\pm0.05\\,\\mathrm{cm}$. The percentage uncertainty in area is approximately:",
+    "options": {
+      "A": "$2.0\\%$",
+      "B": "$2.5\\%$",
+      "C": "$4.0\\%$",
+      "D": "$4.5\\%$"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 40,
+    "section": "Physics",
+    "question": "For $\\vec A=3\\hat i+4\\hat j$ and $\\vec B=2\\hat i-\\hat j$, then $\\vec A\\cdot\\vec B$ is:",
+    "options": {
+      "A": "$-2$",
+      "B": "$0$",
+      "C": "$2$",
+      "D": "$10$"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 41,
+    "section": "Physics",
+    "question": "Two forces have maximum resultant $13\\,\\mathrm{N}$ and minimum resultant $5\\,\\mathrm{N}$. Their magnitudes are:",
+    "options": {
+      "A": "$8\\,\\mathrm{N},\\ 5\\,\\mathrm{N}$",
+      "B": "$9\\,\\mathrm{N},\\ 4\\,\\mathrm{N}$",
+      "C": "$10\\,\\mathrm{N},\\ 3\\,\\mathrm{N}$",
+      "D": "$12\\,\\mathrm{N},\\ 1\\,\\mathrm{N}$"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 42,
+    "section": "Physics",
+    "question": "For the same speed, a projectile has the same horizontal range at $30^\\circ$ and:",
+    "options": {
+      "A": "$45^\\circ$",
+      "B": "$60^\\circ$",
+      "C": "$75^\\circ$",
+      "D": "$90^\\circ$"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 43,
+    "section": "Physics",
+    "question": "A body moving at $20\\,\\mathrm{m\\,s^{-1}}$ is uniformly retarded at $5\\,\\mathrm{m\\,s^{-2}}$. Distance covered before stopping is:",
+    "options": {
+      "A": "$20\\,\\mathrm{m}$",
+      "B": "$30\\,\\mathrm{m}$",
+      "C": "$40\\,\\mathrm{m}$",
+      "D": "$50\\,\\mathrm{m}$"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 44,
+    "section": "Physics",
+    "question": "Two cars move in opposite directions with speeds $20\\,\\mathrm{m\\,s^{-1}}$ and $15\\,\\mathrm{m\\,s^{-1}}$. The relative speed is:",
+    "options": {
+      "A": "$5\\,\\mathrm{m\\,s^{-1}}$",
+      "B": "$15\\,\\mathrm{m\\,s^{-1}}$",
+      "C": "$20\\,\\mathrm{m\\,s^{-1}}$",
+      "D": "$35\\,\\mathrm{m\\,s^{-1}}$"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 45,
+    "section": "Physics",
+    "question": "If $v=t^2+2t$, the acceleration at $t=3\\,\\mathrm{s}$ is:",
+    "options": {
+      "A": "$4\\,\\mathrm{m\\,s^{-2}}$",
+      "B": "$6\\,\\mathrm{m\\,s^{-2}}$",
+      "C": "$8\\,\\mathrm{m\\,s^{-2}}$",
+      "D": "$12\\,\\mathrm{m\\,s^{-2}}$"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 46,
+    "section": "Physics",
+    "question": "In an Atwood machine with masses $3\\,\\mathrm{kg}$ and $2\\,\\mathrm{kg}$, taking $g=10\\,\\mathrm{m\\,s^{-2}}$, the acceleration is:",
+    "options": {
+      "A": "$1\\,\\mathrm{m\\,s^{-2}}$",
+      "B": "$2\\,\\mathrm{m\\,s^{-2}}$",
+      "C": "$5\\,\\mathrm{m\\,s^{-2}}$",
+      "D": "$10\\,\\mathrm{m\\,s^{-2}}$"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 47,
+    "section": "Physics",
+    "question": "A $60\\,\\mathrm{kg}$ man is in a lift moving upward with deceleration $2\\,\\mathrm{m\\,s^{-2}}$. Apparent weight is, taking $g=10\\,\\mathrm{m\\,s^{-2}}$:",
+    "options": {
+      "A": "$480\\,\\mathrm{N}$",
+      "B": "$600\\,\\mathrm{N}$",
+      "C": "$720\\,\\mathrm{N}$",
+      "D": "$120\\,\\mathrm{N}$"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 48,
+    "section": "Physics",
+    "question": "A force increases linearly from $0$ to $20\\,\\mathrm{N}$ in $4\\,\\mathrm{s}$. The impulse is:",
+    "options": {
+      "A": "$20\\,\\mathrm{N\\,s}$",
+      "B": "$30\\,\\mathrm{N\\,s}$",
+      "C": "$40\\,\\mathrm{N\\,s}$",
+      "D": "$80\\,\\mathrm{N\\,s}$"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 49,
+    "section": "Physics",
+    "question": "A $1000\\,\\mathrm{kg}$ car moving at $20\\,\\mathrm{m\\,s^{-1}}$ is stopped in $50\\,\\mathrm{m}$ by a constant force. The retarding force is:",
+    "options": {
+      "A": "$1000\\,\\mathrm{N}$",
+      "B": "$2000\\,\\mathrm{N}$",
+      "C": "$4000\\,\\mathrm{N}$",
+      "D": "$8000\\,\\mathrm{N}$"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 50,
+    "section": "Physics",
+    "question": "A pump lifts $200\\,\\mathrm{kg}$ of water per minute through a height of $6\\,\\mathrm{m}$. Taking $g=10\\,\\mathrm{m\\,s^{-2}}$, power is:",
+    "options": {
+      "A": "$100\\,\\mathrm{W}$",
+      "B": "$200\\,\\mathrm{W}$",
+      "C": "$600\\,\\mathrm{W}$",
+      "D": "$1200\\,\\mathrm{W}$"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 51,
+    "section": "Physics",
+    "question": "A $2\\,\\mathrm{kg}$ body moving at $4\\,\\mathrm{m\\,s^{-1}}$ collides with a $2\\,\\mathrm{kg}$ body at rest and they stick together. Their common velocity is:",
+    "options": {
+      "A": "$1\\,\\mathrm{m\\,s^{-1}}$",
+      "B": "$2\\,\\mathrm{m\\,s^{-1}}$",
+      "C": "$3\\,\\mathrm{m\\,s^{-1}}$",
+      "D": "$4\\,\\mathrm{m\\,s^{-1}}$"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 52,
+    "section": "Physics",
+    "question": "For the same mass and radius, the ratio of moment of inertia of a ring to a disc about their central axes is:",
+    "options": {
+      "A": "$1:1$",
+      "B": "$1:2$",
+      "C": "$2:1$",
+      "D": "$4:1$"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 53,
+    "section": "Physics",
+    "question": "Angular velocity changes from $10\\,\\mathrm{rad\\,s^{-1}}$ to $30\\,\\mathrm{rad\\,s^{-1}}$ in $5\\,\\mathrm{s}$. Angular acceleration is:",
+    "options": {
+      "A": "$2\\,\\mathrm{rad\\,s^{-2}}$",
+      "B": "$4\\,\\mathrm{rad\\,s^{-2}}$",
+      "C": "$6\\,\\mathrm{rad\\,s^{-2}}$",
+      "D": "$8\\,\\mathrm{rad\\,s^{-2}}$"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 54,
+    "section": "Physics",
+    "question": "If both speed and radius are doubled in circular motion, centripetal force becomes:",
+    "options": {
+      "A": "$\\frac{F}{2}$",
+      "B": "$F$",
+      "C": "$2F$",
+      "D": "$4F$"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 55,
+    "section": "Physics",
+    "question": "Orbital speed of a satellite is proportional to $\\frac{1}{\\sqrt r}$. If orbital radius becomes $4$ times, speed becomes:",
+    "options": {
+      "A": "one-fourth",
+      "B": "half",
+      "C": "double",
+      "D": "four times"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 56,
+    "section": "Physics",
+    "question": "Terminal velocity of a small sphere in a viscous liquid is proportional to $r^2$. If radius is doubled, terminal velocity becomes:",
+    "options": {
+      "A": "2 times",
+      "B": "4 times",
+      "C": "8 times",
+      "D": "1/2 times"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 57,
+    "section": "Physics",
+    "question": "In a steady liquid flow, if pipe diameter is halved, the speed of flow becomes:",
+    "options": {
+      "A": "same",
+      "B": "2 times",
+      "C": "4 times",
+      "D": "1/4 times"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 58,
+    "section": "Physics",
+    "question": "According to Bernoulli’s principle, where the speed of an ideal fluid increases, the pressure:",
+    "options": {
+      "A": "increases",
+      "B": "decreases",
+      "C": "remains constant",
+      "D": "becomes zero"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 59,
+    "section": "Physics",
+    "question": "In S.H.M., when displacement is $\\frac{A}{2}$, the ratio of kinetic energy to total energy is:",
+    "options": {
+      "A": "$\\frac{1}{4}$",
+      "B": "$\\frac{1}{2}$",
+      "C": "$\\frac{3}{4}$",
+      "D": "$1$"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 60,
+    "section": "Physics",
+    "question": "A $2\\,\\mathrm{kg}$ mass is attached to a spring of force constant $200\\,\\mathrm{N\\,m^{-1}}$. Its time period is:",
+    "options": {
+      "A": "$\\frac{\\pi}{10}\\,\\mathrm{s}$",
+      "B": "$\\frac{\\pi}{5}\\,\\mathrm{s}$",
+      "C": "$\\frac{\\pi}{2}\\,\\mathrm{s}$",
+      "D": "$2\\pi\\,\\mathrm{s}$"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 61,
+    "section": "Physics",
+    "question": "The time period of a simple pendulum on the moon, where $g$ is one-sixth of earth’s $g$, becomes:",
+    "options": {
+      "A": "$\\frac{1}{\\sqrt6}$ times",
+      "B": "$\\sqrt6$ times",
+      "C": "6 times",
+      "D": "36 times"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 62,
+    "section": "Physics",
+    "question": "For $y=0.02\\sin(100\\pi t-2\\pi x)$, the wave speed is:",
+    "options": {
+      "A": "$25\\,\\mathrm{m\\,s^{-1}}$",
+      "B": "$50\\,\\mathrm{m\\,s^{-1}}$",
+      "C": "$100\\,\\mathrm{m\\,s^{-1}}$",
+      "D": "$200\\,\\mathrm{m\\,s^{-1}}$"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 63,
+    "section": "Physics",
+    "question": "A string fixed at both ends has fundamental frequency $100\\,\\mathrm{Hz}$. Its second harmonic is:",
+    "options": {
+      "A": "$50\\,\\mathrm{Hz}$",
+      "B": "$100\\,\\mathrm{Hz}$",
+      "C": "$200\\,\\mathrm{Hz}$",
+      "D": "$300\\,\\mathrm{Hz}$"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 64,
+    "section": "Physics",
+    "question": "Two coherent waves of amplitudes $3\\,\\mathrm{cm}$ and $4\\,\\mathrm{cm}$ superpose. The ratio of maximum to minimum intensity is:",
+    "options": {
+      "A": "$7:1$",
+      "B": "$16:9$",
+      "C": "$49:1$",
+      "D": "$4:3$"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 65,
+    "section": "Physics",
+    "question": "Two tuning forks of frequencies $256\\,\\mathrm{Hz}$ and $249\\,\\mathrm{Hz}$ are sounded together. Beat frequency is:",
+    "options": {
+      "A": "$5\\,\\mathrm{Hz}$",
+      "B": "$7\\,\\mathrm{Hz}$",
+      "C": "$249\\,\\mathrm{Hz}$",
+      "D": "$505\\,\\mathrm{Hz}$"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 66,
+    "section": "Physics",
+    "question": "A source of sound of frequency $500\\,\\mathrm{Hz}$ moves towards a stationary observer with speed $34\\,\\mathrm{m\\,s^{-1}}$. If speed of sound is $340\\,\\mathrm{m\\,s^{-1}}$, observed frequency is approximately:",
+    "options": {
+      "A": "$455\\,\\mathrm{Hz}$",
+      "B": "$500\\,\\mathrm{Hz}$",
+      "C": "$556\\,\\mathrm{Hz}$",
+      "D": "$600\\,\\mathrm{Hz}$"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 67,
+    "section": "Physics",
+    "question": "If sound level increases by $20\\,\\mathrm{dB}$, the intensity becomes:",
+    "options": {
+      "A": "2 times",
+      "B": "10 times",
+      "C": "100 times",
+      "D": "1000 times"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 68,
+    "section": "Physics",
+    "question": "In Young’s double-slit experiment, $D=2\\,\\mathrm{m}$, $d=0.5\\,\\mathrm{mm}$ and $\\lambda=500\\,\\mathrm{nm}$. Fringe width is:",
+    "options": {
+      "A": "$0.5\\,\\mathrm{mm}$",
+      "B": "$1\\,\\mathrm{mm}$",
+      "C": "$2\\,\\mathrm{mm}$",
+      "D": "$4\\,\\mathrm{mm}$"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 69,
+    "section": "Physics",
+    "question": "In YDSE, if slit separation is doubled and screen distance is halved, fringe width becomes:",
+    "options": {
+      "A": "one-fourth",
+      "B": "half",
+      "C": "double",
+      "D": "four times"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 70,
+    "section": "Physics",
+    "question": "For single-slit diffraction, first minimum satisfies $\\sin\\theta=\\frac{\\lambda}{a}$. If $\\lambda=500\\,\\mathrm{nm}$ and $a=2\\,\\mu\\mathrm{m}$, $\\sin\\theta$ is:",
+    "options": {
+      "A": "$0.10$",
+      "B": "$0.25$",
+      "C": "$0.50$",
+      "D": "$0.75$"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 71,
+    "section": "Physics",
+    "question": "At Brewster angle $60^\\circ$, the refractive index of the medium is:",
+    "options": {
+      "A": "$\\frac{1}{2}$",
+      "B": "$1$",
+      "C": "$\\sqrt3$",
+      "D": "$2$"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 72,
+    "section": "Physics",
+    "question": "For a medium of refractive index $1.5$, the critical angle $C$ satisfies:",
+    "options": {
+      "A": "$\\sin C=\\frac{1}{3}$",
+      "B": "$\\sin C=\\frac{2}{3}$",
+      "C": "$\\sin C=\\frac{3}{2}$",
+      "D": "$\\tan C=\\frac{2}{3}$"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 73,
+    "section": "Physics",
+    "question": "For an ideal gas, rms speed is proportional to $\\sqrt T$. If absolute temperature becomes four times, rms speed becomes:",
+    "options": {
+      "A": "half",
+      "B": "same",
+      "C": "double",
+      "D": "four times"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 74,
+    "section": "Physics",
+    "question": "For an isothermal process of an ideal gas, change in internal energy is:",
+    "options": {
+      "A": "zero",
+      "B": "equal to work done",
+      "C": "equal to heat supplied",
+      "D": "infinite"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 75,
+    "section": "Physics",
+    "question": "In a process, $100\\,\\mathrm{J}$ heat is supplied and $40\\,\\mathrm{J}$ work is done by the gas. Change in internal energy is:",
+    "options": {
+      "A": "$40\\,\\mathrm{J}$",
+      "B": "$60\\,\\mathrm{J}$",
+      "C": "$100\\,\\mathrm{J}$",
+      "D": "$140\\,\\mathrm{J}$"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 76,
+    "section": "Physics",
+    "question": "Efficiency of a Carnot engine working between $400\\,\\mathrm{K}$ and $300\\,\\mathrm{K}$ is:",
+    "options": {
+      "A": "$15\\%$",
+      "B": "$20\\%$",
+      "C": "$25\\%$",
+      "D": "$30\\%$"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 77,
+    "section": "Physics",
+    "question": "In an adiabatic process:",
+    "options": {
+      "A": "temperature is constant",
+      "B": "pressure is constant",
+      "C": "volume is constant",
+      "D": "heat exchange is zero"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 78,
+    "section": "Physics",
+    "question": "For one mole of an ideal gas, $C_p-C_v$ is equal to:",
+    "options": {
+      "A": "$R$",
+      "B": "$2R$",
+      "C": "$\\gamma R$",
+      "D": "zero"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 79,
+    "section": "Physics",
+    "question": "Heat required to raise $0.5\\,\\mathrm{kg}$ water by $20\\,\\mathrm{K}$ is, $c=4200\\,\\mathrm{J\\,kg^{-1}\\,K^{-1}}$:",
+    "options": {
+      "A": "$4{,}200\\,\\mathrm{J}$",
+      "B": "$21{,}000\\,\\mathrm{J}$",
+      "C": "$42{,}000\\,\\mathrm{J}$",
+      "D": "$84{,}000\\,\\mathrm{J}$"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 80,
+    "section": "Physics",
+    "question": "The impossibility of converting all heat from a single reservoir completely into work is a statement of:",
+    "options": {
+      "A": "zeroth law",
+      "B": "first law",
+      "C": "second law",
+      "D": "law of gravitation"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 81,
+    "section": "English",
+    "question": "Choose the synonym of “mitigate”:",
+    "options": {
+      "A": "increase",
+      "B": "alleviate",
+      "C": "oppose",
+      "D": "delay"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 82,
+    "section": "English",
+    "question": "Choose the antonym of “obsolete”:",
+    "options": {
+      "A": "ancient",
+      "B": "useless",
+      "C": "current",
+      "D": "discarded"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 83,
+    "section": "English",
+    "question": "He is averse ___ taking unnecessary risks.",
+    "options": {
+      "A": "to",
+      "B": "from",
+      "C": "with",
+      "D": "for"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 84,
+    "section": "English",
+    "question": "Hardly had he reached the station ___ the train left.",
+    "options": {
+      "A": "than",
+      "B": "when",
+      "C": "then",
+      "D": "as"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 85,
+    "section": "English",
+    "question": "Choose the correct sentence:",
+    "options": {
+      "A": "The committee were unanimous in their decision.",
+      "B": "The committee was unanimous in its decision.",
+      "C": "The committee are unanimous in its decision.",
+      "D": "The committee were unanimous in its decision."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 86,
+    "section": "English",
+    "question": "Choose the correct passive voice of “Who wrote this poem?”",
+    "options": {
+      "A": "Who was this poem written by?",
+      "B": "By whom was this poem written?",
+      "C": "By who this poem was written?",
+      "D": "This poem was written by who?"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 87,
+    "section": "English",
+    "question": "Change into indirect speech: She said, “What a beautiful day!”",
+    "options": {
+      "A": "She said what a beautiful day it is.",
+      "B": "She exclaimed that it was a beautiful day.",
+      "C": "She told that what a beautiful day.",
+      "D": "She asked whether it was a beautiful day."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 88,
+    "section": "English",
+    "question": "The idiom “to burn the midnight oil” means:",
+    "options": {
+      "A": "to waste oil",
+      "B": "to work or study late at night",
+      "C": "to sleep early",
+      "D": "to travel at night"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 89,
+    "section": "English",
+    "question": "Choose the correct sentence:",
+    "options": {
+      "A": "Each of the boys have submitted his form.",
+      "B": "Each of the boys has submitted his form.",
+      "C": "Each of the boys have submitted their form.",
+      "D": "Each boys has submitted his form."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 90,
+    "section": "English",
+    "question": "Choose the correct word: The ___ reason for delay was bad weather.",
+    "options": {
+      "A": "principle",
+      "B": "principal",
+      "C": "principled",
+      "D": "principality"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 91,
+    "section": "English",
+    "question": "Choose the correct conditional sentence:",
+    "options": {
+      "A": "If he studied, he would have passed.",
+      "B": "If he had studied, he would have passed.",
+      "C": "If he has studied, he would passed.",
+      "D": "If he had study, he would pass."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 92,
+    "section": "English",
+    "question": "Choose the correct article: He is ___ M.A. student.",
+    "options": {
+      "A": "a",
+      "B": "an",
+      "C": "the",
+      "D": "no article"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 93,
+    "section": "English",
+    "question": "One should abide ___ the rules.",
+    "options": {
+      "A": "by",
+      "B": "with",
+      "C": "to",
+      "D": "for"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 94,
+    "section": "English",
+    "question": "Choose the synonym of “laconic”:",
+    "options": {
+      "A": "talkative",
+      "B": "brief",
+      "C": "careless",
+      "D": "angry"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 95,
+    "section": "English",
+    "question": "Choose the correct sentence:",
+    "options": {
+      "A": "No sooner he entered the room than the bell rang.",
+      "B": "No sooner did he enter the room than the bell rang.",
+      "C": "No sooner he had entered the room then the bell rang.",
+      "D": "No sooner did he entered the room than the bell rang."
+    },
+    "answer": "B"
+  }
+]
