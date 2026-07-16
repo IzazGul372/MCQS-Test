@@ -1,10 +1,13 @@
-# ETEA Streamlit Quiz App — Results Dashboard Version
+# ETEA Streamlit Quiz App — JSON Results Version
 
-This version does three things:
+This version fixes the `pandas.errors.ParserError` that can happen when reading corrupted CSV files.
 
-1. Lets the candidate take the MCQ test.
-2. Saves their name/email, score, selected answers, correct answers, and correct/wrong status.
-3. Gives you an Admin Results dashboard where you can inspect and download results.
+## What changed
+
+- Candidate submissions are stored internally in `submissions.jsonl`.
+- Each candidate submission is saved as one JSON line.
+- The Admin Results dashboard converts this data into downloadable CSV files.
+- If a stored line is corrupted, the admin dashboard skips it instead of crashing.
 
 ## Run locally
 
@@ -13,13 +16,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## Candidate mode
-
-Select **Candidate Test** in the sidebar. The candidate enters name/email, starts the test, selects A/B/C/D, and submits.
-
-## Admin mode
-
-Select **Admin Results** in the sidebar.
+## Admin login
 
 Default password:
 
@@ -27,43 +24,29 @@ Default password:
 admin123
 ```
 
-Change this before sharing the app publicly.
+Change this before sharing the test.
 
-## Stored files
-
-After submissions, these files are created automatically:
-
-- `summary.csv` — one row per candidate submission
-- `responses.csv` — one row per question per candidate
-
-The admin dashboard also includes download buttons for these files.
-
-## Important note for online use
-
-This CSV-based version is simple and good for testing or supervised use. If you deploy to Streamlit Cloud, the CSV files are stored on the cloud app environment, not automatically on your laptop. Download results regularly from the Admin Results page.
-
-For a more permanent online solution, connect the app to Google Sheets or a database.
-
-## Change exam duration
-
-Open `app.py` and change:
-
-```python
-DURATION_MINUTES = 90
-```
-
-## Change admin password locally
-
-Open `app.py` and change the fallback password:
-
-```python
-return "admin123"
-```
-
-## Change admin password on Streamlit Cloud
-
-Add a secret named:
+On Streamlit Cloud, set a secret:
 
 ```toml
-ADMIN_PASSWORD = "your_strong_password"
+ADMIN_PASSWORD = "your_new_password"
 ```
+
+## Result files
+
+The app creates:
+
+```text
+submissions.jsonl
+```
+
+From the Admin Results dashboard, you can download:
+
+- `summary.csv`
+- `responses.csv`
+- individual candidate feedback CSV
+- raw `submissions.jsonl`
+
+## Important
+
+If you previously used an older CSV version and got `pandas.errors.ParserError`, replace your deployed files with this version. Old `summary.csv` and `responses.csv` are no longer used by this app.

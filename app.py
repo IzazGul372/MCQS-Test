@@ -5,8 +5,7 @@ from pathlib import Path
 from datetime import datetime, timedelta
 
 QUESTIONS_FILE = Path("questions.json")
-RESPONSES_FILE = Path("responses.csv")
-SUMMARY_FILE = Path("summary.csv")
+SUBMISSIONS_FILE = Path("submissions.jsonl")
 
 DURATION_MINUTES = 90
 
@@ -28,7 +27,6 @@ st.markdown("""
 h1 { text-align: center; color: #1f2a44; }
 h2, h3 { color: #1f2a44; margin-top: 2rem; }
 div[data-testid="stRadio"] label { font-size: 16px; }
-.option-line { margin: 0.2rem 0 0.45rem 0; font-size: 1.02rem; }
 .timer-box { position: sticky; top: 0; z-index: 999; padding: 10px 14px; border-radius: 10px; background: #fff7ed; border: 1px solid #fed7aa; color: #9a3412; font-weight: 800; text-align: center; margin-bottom: 16px; }
 .result-ok { color: #166534; font-weight: 800; }
 .result-bad { color: #991b1b; font-weight: 800; }
@@ -61,34 +59,74 @@ def calculate_score(questions, answers):
     return correct, rows
 
 
-def append_csv(path, row_dict):
-    df = pd.DataFrame([row_dict])
-    df.to_csv(path, mode="a" if path.exists() else "w", header=not path.exists(), index=False)
-
-
-def save_detailed_response(candidate_name, candidate_email, score, total, detail_rows):
+def save_submission(candidate_name, candidate_email, score, total, detail_rows):
+    """Save one full submission as one JSON line.
+    This is more robust than appending many CSV rows and avoids pandas ParserError.
+    """
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    percentage = round(score / total * 100, 2)
-
-    for row in detail_rows:
-        append_csv(RESPONSES_FILE, {
-            "timestamp": timestamp,
-            "candidate_name": candidate_name,
-            "candidate_email": candidate_email,
-            "score": score,
-            "total": total,
-            "percentage": percentage,
-            **row,
-        })
-
-    append_csv(SUMMARY_FILE, {
+    submission = {
         "timestamp": timestamp,
         "candidate_name": candidate_name,
         "candidate_email": candidate_email,
         "score": score,
         "total": total,
-        "percentage": percentage,
-    })
+        "percentage": round(score / total * 100, 2),
+        "details": detail_rows,
+    }
+    with open(SUBMISSIONS_FILE, "a", encoding="utf-8") as f:
+        f.write(json.dumps(submission, ensure_ascii=False) + "\n")
+
+
+def load_submissions():
+    """Load JSONL submissions. Bad/corrupted lines are skipped instead of crashing admin page."""
+    submissions = []
+    skipped = 0
+    if not SUBMISSIONS_FILE.exists():
+        return submissions, skipped
+    with open(SUBMISSIONS_FILE, "r", encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if not line:
+                continue
+            try:
+                submissions.append(json.loads(line))
+            except json.JSONDecodeError:
+                skipped += 1
+    return submissions, skipped
+
+
+def submissions_to_summary_df(submissions):
+    rows = []
+    for s in submissions:
+        rows.append({
+            "timestamp": s.get("timestamp", ""),
+            "candidate_name": s.get("candidate_name", ""),
+            "candidate_email": s.get("candidate_email", ""),
+            "score": s.get("score", 0),
+            "total": s.get("total", 0),
+            "percentage": s.get("percentage", 0),
+        })
+    return pd.DataFrame(rows)
+
+
+def submissions_to_responses_df(submissions):
+    rows = []
+    for s in submissions:
+        for d in s.get("details", []):
+            rows.append({
+                "timestamp": s.get("timestamp", ""),
+                "candidate_name": s.get("candidate_name", ""),
+                "candidate_email": s.get("candidate_email", ""),
+                "score": s.get("score", 0),
+                "total": s.get("total", 0),
+                "percentage": s.get("percentage", 0),
+                "question_id": d.get("question_id", ""),
+                "section": d.get("section", ""),
+                "selected": d.get("selected", ""),
+                "correct_answer": d.get("correct_answer", ""),
+                "is_correct": d.get("is_correct", False),
+            })
+    return pd.DataFrame(rows)
 
 
 def format_time(seconds):
@@ -96,12 +134,6 @@ def format_time(seconds):
     m, s = divmod(seconds, 60)
     h, m = divmod(m, 60)
     return f"{h:02d}:{m:02d}:{s:02d}"
-
-
-def read_csv_if_exists(path):
-    if path.exists():
-        return pd.read_csv(path)
-    return pd.DataFrame()
 
 
 def option_text(q, letter):
@@ -118,6 +150,10 @@ def render_candidate_feedback(questions, details_df):
         ["All", "Wrong only", "Correct only", "Unanswered only"],
         horizontal=True,
     )
+
+    if details_df.empty:
+        st.info("No detailed response rows found for this candidate.")
+        return
 
     rows = details_df.sort_values("question_id").to_dict("records")
     shown = 0
@@ -202,17 +238,21 @@ if app_mode == "Admin Results":
 
     st.success("Admin access granted.")
 
-    summary_df = read_csv_if_exists(SUMMARY_FILE)
-    responses_df = read_csv_if_exists(RESPONSES_FILE)
+    submissions, skipped = load_submissions()
+    if skipped:
+        st.warning(f"Skipped {skipped} corrupted saved submission line(s). The dashboard will still load.")
 
-    if summary_df.empty:
+    if not submissions:
         st.info("No submissions yet. After a candidate submits, results will appear here.")
         st.stop()
+
+    summary_df = submissions_to_summary_df(submissions)
+    responses_df = submissions_to_responses_df(submissions)
 
     st.subheader("Summary of submissions")
     st.dataframe(summary_df.sort_values("timestamp", ascending=False), use_container_width=True)
 
-    col1, col2 = st.columns(2)
+    col1, col2, col3 = st.columns(3)
     with col1:
         st.download_button(
             "Download summary.csv",
@@ -227,6 +267,13 @@ if app_mode == "Admin Results":
             file_name="responses.csv",
             mime="text/csv",
         )
+    with col3:
+        st.download_button(
+            "Download raw submissions.jsonl",
+            data="\n".join(json.dumps(s, ensure_ascii=False) for s in submissions).encode("utf-8"),
+            file_name="submissions.jsonl",
+            mime="application/jsonl",
+        )
 
     st.divider()
     st.subheader("Candidate-level feedback")
@@ -237,14 +284,24 @@ if app_mode == "Admin Results":
         for _, r in sorted_summary.iterrows()
     ]
     selected_label = st.selectbox("Select candidate submission", labels)
-    selected_row = sorted_summary.iloc[labels.index(selected_label)]
+    selected_index = labels.index(selected_label)
+    selected_row = sorted_summary.iloc[selected_index]
 
-    mask = (
-        (responses_df["timestamp"].astype(str) == str(selected_row["timestamp"]))
-        & (responses_df["candidate_name"].astype(str) == str(selected_row["candidate_name"]))
-        & (responses_df["candidate_email"].fillna("").astype(str) == str(selected_row.get("candidate_email", "")))
-    )
-    candidate_details = responses_df[mask].copy()
+    selected_submission = None
+    for s in submissions:
+        if (
+            str(s.get("timestamp", "")) == str(selected_row["timestamp"])
+            and str(s.get("candidate_name", "")) == str(selected_row["candidate_name"])
+            and str(s.get("candidate_email", "")) == str(selected_row.get("candidate_email", ""))
+        ):
+            selected_submission = s
+            break
+
+    if selected_submission is None:
+        st.error("Could not find details for the selected submission.")
+        st.stop()
+
+    candidate_details = pd.DataFrame(selected_submission.get("details", []))
 
     st.markdown(
         f"**{selected_row['candidate_name']}** scored **{selected_row['score']}/{selected_row['total']}** "
@@ -252,9 +309,9 @@ if app_mode == "Admin Results":
     )
 
     feedback_df = build_feedback_table(questions, candidate_details)
-    wrong_count = int((feedback_df["is_correct"] == False).sum())
-    correct_count = int((feedback_df["is_correct"] == True).sum())
-    unanswered_count = int((feedback_df["selected"] == "Not answered").sum())
+    wrong_count = int((feedback_df["is_correct"] == False).sum()) if not feedback_df.empty else 0
+    correct_count = int((feedback_df["is_correct"] == True).sum()) if not feedback_df.empty else 0
+    unanswered_count = int((feedback_df["selected"] == "Not answered").sum()) if not feedback_df.empty else 0
 
     m1, m2, m3 = st.columns(3)
     m1.metric("Correct", correct_count)
@@ -354,7 +411,7 @@ if submit_clicked:
         st.error("Candidate name is missing.")
     else:
         score, detail_rows = calculate_score(questions, answers)
-        save_detailed_response(candidate_name.strip(), candidate_email.strip(), score, len(questions), detail_rows)
+        save_submission(candidate_name.strip(), candidate_email.strip(), score, len(questions), detail_rows)
         st.session_state.submitted = True
         st.success("Test submitted successfully.")
         st.write(f"Score saved: **{score}/{len(questions)}**")
