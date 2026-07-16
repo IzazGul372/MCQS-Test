@@ -1,27 +1,22 @@
-# ETEA Streamlit Quiz App
+# ETEA Streamlit Quiz App — LaTeX Updated Version
 
-A minimal quiz app for your MCQ test.
-
-## Install
-
-```bash
-pip install -r requirements.txt
-```
+This version displays mathematical expressions in proper equation format using Streamlit Markdown/LaTeX.
 
 ## Run locally
 
 ```bash
+pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## What gets saved
+## Main changes
 
-After submission:
+- Mathematical expressions are written with LaTeX in `questions.json`.
+- Questions/options are rendered with `st.markdown()`.
+- Candidate selects only A/B/C/D.
+- The visible “Not answered” option has been removed.
 
-- `summary.csv` contains candidate name/email and total score.
-- `responses.csv` contains each answer and whether it was correct.
-
-## Change timer
+## Edit timer
 
 Open `app.py` and change:
 
@@ -29,16 +24,10 @@ Open `app.py` and change:
 DURATION_MINUTES = 90
 ```
 
-## Share with someone on the same Wi-Fi
+## Editing math in questions.json
 
-```bash
-streamlit run app.py --server.address 0.0.0.0
+Use double backslashes in JSON, for example:
+
+```json
+"question": "$\frac{1+i}{1-i}$ is equal to:"
 ```
-
-Then open your local IP address with port 8501, for example:
-
-```text
-http://192.168.1.10:8501
-```
-
-For online sharing, deploy the folder to Streamlit Community Cloud, Render, or another hosting service.

@@ -2,179 +2,179 @@
   {
     "id": 1,
     "section": "Mathematics",
-    "question": "(1+i)/(1-i) is equal to:",
+    "question": "$\\frac{1+i}{1-i}$ is equal to:",
     "options": {
-      "A": "1",
-      "B": "-1",
-      "C": "i",
-      "D": "-i"
+      "A": "$1$",
+      "B": "$-1$",
+      "C": "$i$",
+      "D": "$-i$"
     },
     "answer": "C"
   },
   {
     "id": 2,
     "section": "Mathematics",
-    "question": "If i = √-1, then i^37 + i^41 is:",
+    "question": "If $i=\\sqrt{-1}$, then $i^{37}+i^{41}$ is:",
     "options": {
-      "A": "0",
-      "B": "2i",
-      "C": "-2i",
-      "D": "2"
+      "A": "$0$",
+      "B": "$2i$",
+      "C": "$-2i$",
+      "D": "$2$"
     },
     "answer": "B"
   },
   {
     "id": 3,
     "section": "Mathematics",
-    "question": "If the roots of x² + px + q = 0 are reciprocal and non-zero, then:",
+    "question": "If the roots of $x^2+px+q=0$ are reciprocal and non-zero, then:",
     "options": {
-      "A": "p = 1",
-      "B": "q = 1",
-      "C": "p = q",
-      "D": "p + q = 1"
+      "A": "$p=1$",
+      "B": "$q=1$",
+      "C": "$p=q$",
+      "D": "$p+q=1$"
     },
     "answer": "B"
   },
   {
     "id": 4,
     "section": "Mathematics",
-    "question": "The determinant | a  b ; ka  kb | is:",
+    "question": "The determinant $\\begin{vmatrix}a&b\\\\ka&kb\\end{vmatrix}$ is:",
     "options": {
-      "A": "ab",
-      "B": "kab",
-      "C": "0",
-      "D": "a+b"
+      "A": "$ab$",
+      "B": "$kab$",
+      "C": "$0$",
+      "D": "$a+b$"
     },
     "answer": "C"
   },
   {
     "id": 5,
     "section": "Mathematics",
-    "question": "If Sₙ = 3n² + 2n, then the nth term of the series is:",
+    "question": "If $S_n=3n^2+2n$, then the $n$th term of the series is:",
     "options": {
-      "A": "3n+2",
-      "B": "6n-1",
-      "C": "6n+1",
-      "D": "3n²-2n"
+      "A": "$3n+2$",
+      "B": "$6n-1$",
+      "C": "$6n+1$",
+      "D": "$3n^2-2n$"
     },
     "answer": "B"
   },
   {
     "id": 6,
     "section": "Mathematics",
-    "question": "In a positive G.P., if T₃ = 12 and T₅ = 48, then T₄ is:",
+    "question": "In a positive G.P., if $T_3=12$ and $T_5=48$, then $T_4$ is:",
     "options": {
-      "A": "18",
-      "B": "20",
-      "C": "24",
-      "D": "36"
+      "A": "$18$",
+      "B": "$20$",
+      "C": "$24$",
+      "D": "$36$"
     },
     "answer": "C"
   },
   {
     "id": 7,
     "section": "Mathematics",
-    "question": "A polygon has 27 diagonals. The number of its sides is:",
+    "question": "A polygon has $27$ diagonals. The number of its sides is:",
     "options": {
-      "A": "7",
-      "B": "8",
-      "C": "9",
-      "D": "10"
+      "A": "$7$",
+      "B": "$8$",
+      "C": "$9$",
+      "D": "$10$"
     },
     "answer": "C"
   },
   {
     "id": 8,
     "section": "Mathematics",
-    "question": "If nP₂ = 42, then nC₂ is:",
+    "question": "If ${}^nP_2=42$, then ${}^nC_2$ is:",
     "options": {
-      "A": "14",
-      "B": "21",
-      "C": "28",
-      "D": "42"
+      "A": "$14$",
+      "B": "$21$",
+      "C": "$28$",
+      "D": "$42$"
     },
     "answer": "B"
   },
   {
     "id": 9,
     "section": "Mathematics",
-    "question": "The term independent of x in (x² + 1/x)^9 is:",
+    "question": "The term independent of $x$ in $\\left(x^2+\\frac{1}{x}\\right)^9$ is:",
     "options": {
-      "A": "36",
-      "B": "72",
-      "C": "84",
-      "D": "126"
+      "A": "$36$",
+      "B": "$72$",
+      "C": "$84$",
+      "D": "$126$"
     },
     "answer": "C"
   },
   {
     "id": 10,
     "section": "Mathematics",
-    "question": "If the third term in the expansion of (1+x)^n is 45x², then n is:",
+    "question": "If the third term in the expansion of $(1+x)^n$ is $45x^2$, then $n$ is:",
     "options": {
-      "A": "8",
-      "B": "9",
-      "C": "10",
-      "D": "12"
+      "A": "$8$",
+      "B": "$9$",
+      "C": "$10$",
+      "D": "$12$"
     },
     "answer": "C"
   },
   {
     "id": 11,
     "section": "Mathematics",
-    "question": "If sinθ + cosθ = √2, then sin2θ is:",
+    "question": "If $\\sin\\theta+\\cos\\theta=\\sqrt{2}$, then $\\sin2\\theta$ is:",
     "options": {
-      "A": "0",
-      "B": "1/2",
-      "C": "1",
-      "D": "√2"
+      "A": "$0$",
+      "B": "$\\frac{1}{2}$",
+      "C": "$1$",
+      "D": "$\\sqrt{2}$"
     },
     "answer": "C"
   },
   {
     "id": 12,
     "section": "Mathematics",
-    "question": "If secθ + tanθ = 3, then cosθ is:",
+    "question": "If $\\sec\\theta+\\tan\\theta=3$, then $\\cos\\theta$ is:",
     "options": {
-      "A": "3/5",
-      "B": "4/5",
-      "C": "5/3",
-      "D": "1/3"
+      "A": "$\\frac{3}{5}$",
+      "B": "$\\frac{4}{5}$",
+      "C": "$\\frac{5}{3}$",
+      "D": "$\\frac{1}{3}$"
     },
     "answer": "A"
   },
   {
     "id": 13,
     "section": "Mathematics",
-    "question": "The value of tan15° is:",
+    "question": "The value of $\\tan15^\\circ$ is:",
     "options": {
-      "A": "2+√3",
-      "B": "2-√3",
-      "C": "√3-1",
-      "D": "√3+1"
+      "A": "$2+\\sqrt{3}$",
+      "B": "$2-\\sqrt{3}$",
+      "C": "$\\sqrt{3}-1$",
+      "D": "$\\sqrt{3}+1$"
     },
     "answer": "B"
   },
   {
     "id": 14,
     "section": "Mathematics",
-    "question": "If logₓ 8 = 3/2, then x is:",
+    "question": "If $\\log_x8=\\frac{3}{2}$, then $x$ is:",
     "options": {
-      "A": "2",
-      "B": "4",
-      "C": "8",
-      "D": "16"
+      "A": "$2$",
+      "B": "$4$",
+      "C": "$8$",
+      "D": "$16$"
     },
     "answer": "B"
   },
   {
     "id": 15,
     "section": "Mathematics",
-    "question": "The domain of f(x)=√(4−x²) is:",
+    "question": "The domain of $f(x)=\\sqrt{4-x^2}$ is:",
     "options": {
-      "A": "x > 2",
-      "B": "x < -2",
-      "C": "-2 ≤ x ≤ 2",
+      "A": "$x>2$",
+      "B": "$x<-2$",
+      "C": "$-2\\leq x\\leq2$",
       "D": "all real numbers"
     },
     "answer": "C"
@@ -182,71 +182,71 @@
   {
     "id": 16,
     "section": "Mathematics",
-    "question": "The slope of a line perpendicular to 2x + 3y − 5 = 0 is:",
+    "question": "The slope of a line perpendicular to $2x+3y-5=0$ is:",
     "options": {
-      "A": "-2/3",
-      "B": "2/3",
-      "C": "-3/2",
-      "D": "3/2"
+      "A": "$-\\frac{2}{3}$",
+      "B": "$\\frac{2}{3}$",
+      "C": "$-\\frac{3}{2}$",
+      "D": "$\\frac{3}{2}$"
     },
     "answer": "D"
   },
   {
     "id": 17,
     "section": "Mathematics",
-    "question": "The length of intercept cut by 3x + 4y = 12 on the coordinate axes is:",
+    "question": "The length of intercept cut by $3x+4y=12$ on the coordinate axes is:",
     "options": {
-      "A": "3",
-      "B": "4",
-      "C": "5",
-      "D": "7"
+      "A": "$3$",
+      "B": "$4$",
+      "C": "$5$",
+      "D": "$7$"
     },
     "answer": "C"
   },
   {
     "id": 18,
     "section": "Mathematics",
-    "question": "The distance of point (3,4) from the line 3x + 4y − 25 = 0 is:",
+    "question": "The distance of point $(3,4)$ from the line $3x+4y-25=0$ is:",
     "options": {
-      "A": "0",
-      "B": "1",
-      "C": "5",
-      "D": "25"
+      "A": "$0$",
+      "B": "$1$",
+      "C": "$5$",
+      "D": "$25$"
     },
     "answer": "A"
   },
   {
     "id": 19,
     "section": "Mathematics",
-    "question": "The circle x² + y² − 6x + 8y + k = 0 touches the x-axis. Then k =",
+    "question": "The circle $x^2+y^2-6x+8y+k=0$ touches the $x$-axis. Then $k=$",
     "options": {
-      "A": "4",
-      "B": "9",
-      "C": "16",
-      "D": "25"
+      "A": "$4$",
+      "B": "$9$",
+      "C": "$16$",
+      "D": "$25$"
     },
     "answer": "B"
   },
   {
     "id": 20,
     "section": "Mathematics",
-    "question": "The eccentricity of the ellipse 9x² + 25y² = 225 is:",
+    "question": "The eccentricity of the ellipse $9x^2+25y^2=225$ is:",
     "options": {
-      "A": "3/5",
-      "B": "4/5",
-      "C": "5/4",
-      "D": "5/3"
+      "A": "$\\frac{3}{5}$",
+      "B": "$\\frac{4}{5}$",
+      "C": "$\\frac{5}{4}$",
+      "D": "$\\frac{5}{3}$"
     },
     "answer": "B"
   },
   {
     "id": 21,
     "section": "Mathematics",
-    "question": "lim as x→4 of (√(x+5) − 3)/(x−4) is:",
+    "question": "$\\displaystyle \\lim_{x\\to4}\\frac{\\sqrt{x+5}-3}{x-4}$ is:",
     "options": {
-      "A": "1/3",
-      "B": "1/6",
-      "C": "1/9",
+      "A": "$\\frac{1}{3}$",
+      "B": "$\\frac{1}{6}$",
+      "C": "$\\frac{1}{9}$",
       "D": "does not exist"
     },
     "answer": "B"
@@ -254,31 +254,31 @@
   {
     "id": 22,
     "section": "Mathematics",
-    "question": "If y = xˣ, then dy/dx is:",
+    "question": "If $y=x^x$, then $\\frac{dy}{dx}$ is:",
     "options": {
-      "A": "x^(x−1)",
-      "B": "x^x ln x",
-      "C": "x^x(ln x + 1)",
-      "D": "x x^(x−1)"
+      "A": "$x^{x-1}$",
+      "B": "$x^x\\ln x$",
+      "C": "$x^x(\\ln x+1)$",
+      "D": "$x\\cdot x^{x-1}$"
     },
     "answer": "C"
   },
   {
     "id": 23,
     "section": "Mathematics",
-    "question": "d/dx [ln(sin x)] is:",
+    "question": "$\\frac{d}{dx}\\ln(\\sin x)$ is:",
     "options": {
-      "A": "tan x",
-      "B": "cot x",
-      "C": "sec x",
-      "D": "−cot x"
+      "A": "$\\tan x$",
+      "B": "$\\cot x$",
+      "C": "$\\sec x$",
+      "D": "$-\\cot x$"
     },
     "answer": "B"
   },
   {
     "id": 24,
     "section": "Mathematics",
-    "question": "The function f(x)=|x| at x=0 is:",
+    "question": "The function $f(x)=|x|$ at $x=0$ is:",
     "options": {
       "A": "continuous but not differentiable",
       "B": "differentiable but not continuous",
@@ -290,71 +290,71 @@
   {
     "id": 25,
     "section": "Mathematics",
-    "question": "∫₀¹ 1/(1+x²) dx is:",
+    "question": "$\\displaystyle \\int_0^1\\frac{1}{1+x^2}\\,dx$ is:",
     "options": {
-      "A": "π/2",
-      "B": "π/4",
-      "C": "1",
-      "D": "0"
+      "A": "$\\frac{\\pi}{2}$",
+      "B": "$\\frac{\\pi}{4}$",
+      "C": "$1$",
+      "D": "$0$"
     },
     "answer": "B"
   },
   {
     "id": 26,
     "section": "Mathematics",
-    "question": "∫ e^(2x) dx is:",
+    "question": "$\\displaystyle \\int e^{2x}\\,dx$ is:",
     "options": {
-      "A": "e^(2x)+C",
-      "B": "2e^(2x)+C",
-      "C": "(1/2)e^(2x)+C",
-      "D": "(1/2)e^x+C"
+      "A": "$e^{2x}+C$",
+      "B": "$2e^{2x}+C$",
+      "C": "$\\frac{1}{2}e^{2x}+C$",
+      "D": "$\\frac{1}{2}e^x+C$"
     },
     "answer": "C"
   },
   {
     "id": 27,
     "section": "Mathematics",
-    "question": "The tangent to y=x² at x=2 is:",
+    "question": "The tangent to $y=x^2$ at $x=2$ is:",
     "options": {
-      "A": "y=2x+4",
-      "B": "y=4x−4",
-      "C": "y=4x+4",
-      "D": "y=2x−4"
+      "A": "$y=2x+4$",
+      "B": "$y=4x-4$",
+      "C": "$y=4x+4$",
+      "D": "$y=2x-4$"
     },
     "answer": "B"
   },
   {
     "id": 28,
     "section": "Mathematics",
-    "question": "The normal to y=x² at (1,1) is:",
+    "question": "The normal to $y=x^2$ at $(1,1)$ is:",
     "options": {
-      "A": "2x+y−3=0",
-      "B": "x+2y−3=0",
-      "C": "x−2y+1=0",
-      "D": "2x−y−1=0"
+      "A": "$2x+y-3=0$",
+      "B": "$x+2y-3=0$",
+      "C": "$x-2y+1=0$",
+      "D": "$2x-y-1=0$"
     },
     "answer": "B"
   },
   {
     "id": 29,
     "section": "Mathematics",
-    "question": "If the area under y=2x from x=0 to x=a is 9, where a>0, then a =",
+    "question": "If the area under $y=2x$ from $x=0$ to $x=a$ is $9$, where $a>0$, then $a=$",
     "options": {
-      "A": "2",
-      "B": "3",
-      "C": "4",
-      "D": "9"
+      "A": "$2$",
+      "B": "$3$",
+      "C": "$4$",
+      "D": "$9$"
     },
     "answer": "B"
   },
   {
     "id": 30,
     "section": "Mathematics",
-    "question": "The minimum value of x² + 1 is:",
+    "question": "The minimum value of $x^2+1$ is:",
     "options": {
-      "A": "0",
-      "B": "1",
-      "C": "2",
+      "A": "$0$",
+      "B": "$1$",
+      "C": "$2$",
       "D": "does not exist"
     },
     "answer": "B"
@@ -362,72 +362,72 @@
   {
     "id": 31,
     "section": "Mathematics",
-    "question": "If |a|=3, |b|=4, and angle between them is 60°, then a·b is:",
+    "question": "If $|\\vec a|=3$, $|\\vec b|=4$, and angle between them is $60^\\circ$, then $\\vec a\\cdot\\vec b$ is:",
     "options": {
-      "A": "6",
-      "B": "12",
-      "C": "6√3",
-      "D": "24"
+      "A": "$6$",
+      "B": "$12$",
+      "C": "$6\\sqrt3$",
+      "D": "$24$"
     },
     "answer": "A"
   },
   {
     "id": 32,
     "section": "Mathematics",
-    "question": "Scalar projection of a=2i+j on b=i+2j is:",
+    "question": "Scalar projection of $\\vec a=2\\hat i+\\hat j$ on $\\vec b=\\hat i+2\\hat j$ is:",
     "options": {
-      "A": "4/5",
-      "B": "4/√5",
-      "C": "√5/4",
-      "D": "5"
+      "A": "$\\frac{4}{5}$",
+      "B": "$\\frac{4}{\\sqrt5}$",
+      "C": "$\\frac{\\sqrt5}{4}$",
+      "D": "$5$"
     },
     "answer": "B"
   },
   {
     "id": 33,
     "section": "Mathematics",
-    "question": "Lines ax+by+c=0 and kax+kby+d=0 are coincident if:",
+    "question": "Lines $ax+by+c=0$ and $kax+kby+d=0$ are coincident if:",
     "options": {
-      "A": "d=c",
-      "B": "d=kc",
-      "C": "k=d",
-      "D": "c=kd"
+      "A": "$d=c$",
+      "B": "$d=kc$",
+      "C": "$k=d$",
+      "D": "$c=kd$"
     },
     "answer": "B"
   },
   {
     "id": 34,
     "section": "Mathematics",
-    "question": "The inverse of [[1,2],[3,4]] is:",
+    "question": "The inverse of $\\begin{pmatrix}1&2\\\\3&4\\end{pmatrix}$ is:",
     "options": {
-      "A": "[[-2,1],[3/2,-1/2]]",
-      "B": "[[2,-1],[-3/2,1/2]]",
-      "C": "[[4,-2],[-3,1]]",
-      "D": "[[1,-2],[-3,4]]"
+      "A": "$\\begin{pmatrix}-2&1\\\\\\frac{3}{2}&-\\frac{1}{2}\\end{pmatrix}$",
+      "B": "$\\begin{pmatrix}2&-1\\\\-\\frac{3}{2}&\\frac{1}{2}\\end{pmatrix}$",
+      "C": "$\\begin{pmatrix}4&-2\\\\-3&1\\end{pmatrix}$",
+      "D": "$\\begin{pmatrix}1&-2\\\\-3&4\\end{pmatrix}$"
     },
     "answer": "A"
   },
   {
     "id": 35,
     "section": "Mathematics",
-    "question": "sin⁻¹(sin(5π/6)) is:",
+    "question": "$\\sin^{-1}\\left(\\sin\\frac{5\\pi}{6}\\right)$ is:",
     "options": {
-      "A": "5π/6",
-      "B": "π/6",
-      "C": "−π/6",
-      "D": "7π/6"
+      "A": "$\\frac{5\\pi}{6}$",
+      "B": "$\\frac{\\pi}{6}$",
+      "C": "$-\\frac{\\pi}{6}$",
+      "D": "$\\frac{7\\pi}{6}$"
     },
     "answer": "B"
   },
   {
     "id": 36,
     "section": "Physics",
-    "question": "A screw gauge has pitch 0.5 mm and 50 divisions on circular scale. Its least count is:",
+    "question": "A screw gauge has pitch $0.5\\,\\mathrm{mm}$ and $50$ divisions on circular scale. Its least count is:",
     "options": {
-      "A": "0.5 mm",
-      "B": "0.05 mm",
-      "C": "0.01 mm",
-      "D": "0.001 mm"
+      "A": "$0.5\\,\\mathrm{mm}$",
+      "B": "$0.05\\,\\mathrm{mm}$",
+      "C": "$0.01\\,\\mathrm{mm}$",
+      "D": "$0.001\\,\\mathrm{mm}$"
     },
     "answer": "C"
   },
@@ -436,46 +436,46 @@
     "section": "Physics",
     "question": "Dimensional formula of Planck’s constant is:",
     "options": {
-      "A": "[MLT⁻¹]",
-      "B": "[ML²T⁻¹]",
-      "C": "[ML²T⁻²]",
-      "D": "[M⁰L²T⁻¹]"
+      "A": "$[MLT^{-1}]$",
+      "B": "$[ML^2T^{-1}]$",
+      "C": "$[ML^2T^{-2}]$",
+      "D": "$[M^0L^2T^{-1}]$"
     },
     "answer": "B"
   },
   {
     "id": 38,
     "section": "Physics",
-    "question": "If Z=A²/B³, percentage errors in A and B are 2% and 1% respectively. Percentage error in Z is:",
+    "question": "If $Z=\\frac{A^2}{B^3}$, percentage errors in $A$ and $B$ are $2\\%$ and $1\\%$ respectively. Percentage error in $Z$ is:",
     "options": {
-      "A": "3%",
-      "B": "5%",
-      "C": "7%",
-      "D": "9%"
+      "A": "$3\\%$",
+      "B": "$5\\%$",
+      "C": "$7\\%$",
+      "D": "$9\\%$"
     },
     "answer": "C"
   },
   {
     "id": 39,
     "section": "Physics",
-    "question": "Number of significant figures in 0.05020 is:",
+    "question": "Number of significant figures in $0.05020$ is:",
     "options": {
-      "A": "2",
-      "B": "3",
-      "C": "4",
-      "D": "5"
+      "A": "$2$",
+      "B": "$3$",
+      "C": "$4$",
+      "D": "$5$"
     },
     "answer": "C"
   },
   {
     "id": 40,
     "section": "Physics",
-    "question": "If A+B = A−B, then:",
+    "question": "If $\\vec A+\\vec B=\\vec A-\\vec B$, then:",
     "options": {
-      "A": "A=0",
-      "B": "B=0",
-      "C": "A=B",
-      "D": "A=-B"
+      "A": "$\\vec A=0$",
+      "B": "$\\vec B=0$",
+      "C": "$\\vec A=\\vec B$",
+      "D": "$\\vec A=-\\vec B$"
     },
     "answer": "B"
   },
@@ -484,10 +484,10 @@
     "section": "Physics",
     "question": "Resultant of two equal forces is equal to either force. The angle between forces is:",
     "options": {
-      "A": "60°",
-      "B": "90°",
-      "C": "120°",
-      "D": "180°"
+      "A": "$60^\\circ$",
+      "B": "$90^\\circ$",
+      "C": "$120^\\circ$",
+      "D": "$180^\\circ$"
     },
     "answer": "C"
   },
@@ -518,24 +518,24 @@
   {
     "id": 44,
     "section": "Physics",
-    "question": "A body is projected vertically upward with speed u. Its total time of flight is:",
+    "question": "A body is projected vertically upward with speed $u$. Its total time of flight is:",
     "options": {
-      "A": "u/g",
-      "B": "2u/g",
-      "C": "u/2g",
-      "D": "g/u"
+      "A": "$\\frac{u}{g}$",
+      "B": "$\\frac{2u}{g}$",
+      "C": "$\\frac{u}{2g}$",
+      "D": "$\\frac{g}{u}$"
     },
     "answer": "B"
   },
   {
     "id": 45,
     "section": "Physics",
-    "question": "Distance covered by a freely falling body from rest during 5th second, taking g=10 m/s², is:",
+    "question": "Distance covered by a freely falling body from rest during $5$th second, taking $g=10\\,\\mathrm{m\\,s^{-2}}$, is:",
     "options": {
-      "A": "25 m",
-      "B": "35 m",
-      "C": "45 m",
-      "D": "50 m"
+      "A": "$25\\,\\mathrm{m}$",
+      "B": "$35\\,\\mathrm{m}$",
+      "C": "$45\\,\\mathrm{m}$",
+      "D": "$50\\,\\mathrm{m}$"
     },
     "answer": "C"
   },
@@ -544,10 +544,10 @@
     "section": "Physics",
     "question": "One newton is equal to:",
     "options": {
-      "A": "10³ dyne",
-      "B": "10⁴ dyne",
-      "C": "10⁵ dyne",
-      "D": "10⁶ dyne"
+      "A": "$10^3$ dyne",
+      "B": "$10^4$ dyne",
+      "C": "$10^5$ dyne",
+      "D": "$10^6$ dyne"
     },
     "answer": "C"
   },
@@ -566,12 +566,12 @@
   {
     "id": 48,
     "section": "Physics",
-    "question": "A force of 10 N acts on 2 kg mass for 3 s initially at rest. Final momentum is:",
+    "question": "A force of $10\\,\\mathrm{N}$ acts on $2\\,\\mathrm{kg}$ mass for $3\\,\\mathrm{s}$ initially at rest. Final momentum is:",
     "options": {
-      "A": "10 kg m/s",
-      "B": "20 kg m/s",
-      "C": "30 kg m/s",
-      "D": "60 kg m/s"
+      "A": "$10\\,\\mathrm{kg\\,m\\,s^{-1}}$",
+      "B": "$20\\,\\mathrm{kg\\,m\\,s^{-1}}$",
+      "C": "$30\\,\\mathrm{kg\\,m\\,s^{-1}}$",
+      "D": "$60\\,\\mathrm{kg\\,m\\,s^{-1}}$"
     },
     "answer": "C"
   },
@@ -602,24 +602,24 @@
   {
     "id": 51,
     "section": "Physics",
-    "question": "A force of 20 N moves a body with constant velocity 4 m/s in the direction of force. Power is:",
+    "question": "A force of $20\\,\\mathrm{N}$ moves a body with constant velocity $4\\,\\mathrm{m\\,s^{-1}}$ in the direction of force. Power is:",
     "options": {
-      "A": "5 W",
-      "B": "16 W",
-      "C": "24 W",
-      "D": "80 W"
+      "A": "$5\\,\\mathrm{W}$",
+      "B": "$16\\,\\mathrm{W}$",
+      "C": "$24\\,\\mathrm{W}$",
+      "D": "$80\\,\\mathrm{W}$"
     },
     "answer": "D"
   },
   {
     "id": 52,
     "section": "Physics",
-    "question": "A body of mass 2 kg is raised through 5 m. Increase in P.E. is, g=9.8 m/s²:",
+    "question": "A body of mass $2\\,\\mathrm{kg}$ is raised through $5\\,\\mathrm{m}$. Increase in P.E. is, $g=9.8\\,\\mathrm{m\\,s^{-2}}$:",
     "options": {
-      "A": "49 J",
-      "B": "98 J",
-      "C": "196 J",
-      "D": "9.8 J"
+      "A": "$49\\,\\mathrm{J}$",
+      "B": "$98\\,\\mathrm{J}$",
+      "C": "$196\\,\\mathrm{J}$",
+      "D": "$9.8\\,\\mathrm{J}$"
     },
     "answer": "B"
   },
@@ -638,12 +638,12 @@
   {
     "id": 54,
     "section": "Physics",
-    "question": "Angular displacement in 2 s of a wheel rotating at 600 rpm is:",
+    "question": "Angular displacement in $2\\,\\mathrm{s}$ of a wheel rotating at $600\\,\\mathrm{rpm}$ is:",
     "options": {
-      "A": "20π rad",
-      "B": "30π rad",
-      "C": "40π rad",
-      "D": "60π rad"
+      "A": "$20\\pi\\,\\mathrm{rad}$",
+      "B": "$30\\pi\\,\\mathrm{rad}$",
+      "C": "$40\\pi\\,\\mathrm{rad}$",
+      "D": "$60\\pi\\,\\mathrm{rad}$"
     },
     "answer": "C"
   },
@@ -664,10 +664,10 @@
     "section": "Physics",
     "question": "Moment of inertia of a ring about its diameter is:",
     "options": {
-      "A": "MR²",
-      "B": "1/2 MR²",
-      "C": "2/5 MR²",
-      "D": "1/12 MR²"
+      "A": "$MR^2$",
+      "B": "$\\frac{1}{2}MR^2$",
+      "C": "$\\frac{2}{5}MR^2$",
+      "D": "$\\frac{1}{12}MR^2$"
     },
     "answer": "B"
   },
@@ -698,12 +698,12 @@
   {
     "id": 59,
     "section": "Physics",
-    "question": "A satellite close to earth has orbital velocity v. If orbital radius becomes four times, velocity becomes:",
+    "question": "A satellite close to earth has orbital velocity $v$. If orbital radius becomes four times, velocity becomes:",
     "options": {
-      "A": "v/2",
-      "B": "2v",
-      "C": "v/4",
-      "D": "4v"
+      "A": "$\\frac{v}{2}$",
+      "B": "$2v$",
+      "C": "$\\frac{v}{4}$",
+      "D": "$4v$"
     },
     "answer": "A"
   },
@@ -712,10 +712,10 @@
     "section": "Physics",
     "question": "SI unit of coefficient of viscosity is:",
     "options": {
-      "A": "Nm⁻¹",
-      "B": "N s m⁻²",
-      "C": "Nm⁻²",
-      "D": "kg m⁻¹"
+      "A": "$\\mathrm{N\\,m^{-1}}$",
+      "B": "$\\mathrm{N\\,s\\,m^{-2}}$",
+      "C": "$\\mathrm{N\\,m^{-2}}$",
+      "D": "$\\mathrm{kg\\,m^{-1}}$"
     },
     "answer": "B"
   },
@@ -748,10 +748,10 @@
     "section": "Physics",
     "question": "Terminal velocity of a small sphere falling in viscous liquid is proportional to:",
     "options": {
-      "A": "r",
-      "B": "r²",
-      "C": "1/r",
-      "D": "1/r²"
+      "A": "$r$",
+      "B": "$r^2$",
+      "C": "$\\frac{1}{r}$",
+      "D": "$\\frac{1}{r^2}$"
     },
     "answer": "B"
   },
@@ -770,12 +770,12 @@
   {
     "id": 65,
     "section": "Physics",
-    "question": "In S.H.M., when displacement is A/2, the ratio of kinetic energy to total energy is:",
+    "question": "In S.H.M., when displacement is $\\frac{A}{2}$, the ratio of kinetic energy to total energy is:",
     "options": {
-      "A": "1/4",
-      "B": "1/2",
-      "C": "3/4",
-      "D": "1"
+      "A": "$\\frac{1}{4}$",
+      "B": "$\\frac{1}{2}$",
+      "C": "$\\frac{3}{4}$",
+      "D": "$1$"
     },
     "answer": "C"
   },
@@ -808,10 +808,10 @@
     "section": "Physics",
     "question": "A spring is cut into two equal halves. Spring constant of each half becomes:",
     "options": {
-      "A": "k/2",
-      "B": "k",
-      "C": "2k",
-      "D": "4k"
+      "A": "$\\frac{k}{2}$",
+      "B": "$k$",
+      "C": "$2k$",
+      "D": "$4k$"
     },
     "answer": "C"
   },
@@ -832,22 +832,22 @@
     "section": "Physics",
     "question": "Distance between two consecutive nodes in a stationary wave is:",
     "options": {
-      "A": "λ/4",
-      "B": "λ/2",
-      "C": "λ",
-      "D": "2λ"
+      "A": "$\\frac{\\lambda}{4}$",
+      "B": "$\\frac{\\lambda}{2}$",
+      "C": "$\\lambda$",
+      "D": "$2\\lambda$"
     },
     "answer": "B"
   },
   {
     "id": 71,
     "section": "Physics",
-    "question": "Fundamental frequency of a closed pipe of length L is:",
+    "question": "Fundamental frequency of a closed pipe of length $L$ is:",
     "options": {
-      "A": "v/2L",
-      "B": "v/4L",
-      "C": "v/L",
-      "D": "2v/L"
+      "A": "$\\frac{v}{2L}$",
+      "B": "$\\frac{v}{4L}$",
+      "C": "$\\frac{v}{L}$",
+      "D": "$\\frac{2v}{L}$"
     },
     "answer": "B"
   },
@@ -866,12 +866,12 @@
   {
     "id": 73,
     "section": "Physics",
-    "question": "If intensity of sound becomes 100 times, sound level increases by:",
+    "question": "If intensity of sound becomes $100$ times, sound level increases by:",
     "options": {
-      "A": "10 dB",
-      "B": "20 dB",
-      "C": "40 dB",
-      "D": "100 dB"
+      "A": "$10\\,\\mathrm{dB}$",
+      "B": "$20\\,\\mathrm{dB}$",
+      "C": "$40\\,\\mathrm{dB}$",
+      "D": "$100\\,\\mathrm{dB}$"
     },
     "answer": "B"
   },
@@ -890,12 +890,12 @@
   {
     "id": 75,
     "section": "Physics",
-    "question": "Critical angle for glass of refractive index √2 with air is:",
+    "question": "Critical angle for glass of refractive index $\\sqrt2$ with air is:",
     "options": {
-      "A": "30°",
-      "B": "45°",
-      "C": "60°",
-      "D": "90°"
+      "A": "$30^\\circ$",
+      "B": "$45^\\circ$",
+      "C": "$60^\\circ$",
+      "D": "$90^\\circ$"
     },
     "answer": "B"
   },
@@ -928,10 +928,10 @@
     "section": "Physics",
     "question": "Brewster’s law is:",
     "options": {
-      "A": "μ = sin i / sin r",
-      "B": "μ = tan iₚ",
-      "C": "μ = 1/sin C",
-      "D": "μ = v/c"
+      "A": "$\\mu=\\frac{\\sin i}{\\sin r}$",
+      "B": "$\\mu=\\tan i_p$",
+      "C": "$\\mu=\\frac{1}{\\sin C}$",
+      "D": "$\\mu=\\frac{v}{c}$"
     },
     "answer": "B"
   },
@@ -950,12 +950,12 @@
   {
     "id": 80,
     "section": "Physics",
-    "question": "Efficiency of a Carnot engine operating between 600 K and 300 K is:",
+    "question": "Efficiency of a Carnot engine operating between $600\\,\\mathrm{K}$ and $300\\,\\mathrm{K}$ is:",
     "options": {
-      "A": "25%",
-      "B": "50%",
-      "C": "75%",
-      "D": "100%"
+      "A": "$25\\%$",
+      "B": "$50\\%$",
+      "C": "$75\\%$",
+      "D": "$100\\%$"
     },
     "answer": "B"
   },
