@@ -15,7 +15,7 @@ def get_admin_password():
     try:
         return st.secrets.get("ADMIN_PASSWORD", "admin123")
     except Exception:
-        return "admin123"
+        return "afaqwaqas"
 
 ADMIN_PASSWORD = get_admin_password()
 
