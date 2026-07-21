@@ -13,7 +13,7 @@ DURATION_MINUTES = 90
 # On Streamlit Cloud, preferably set ADMIN_PASSWORD in app secrets.
 def get_admin_password():
     try:
-        return st.secrets.get("ADMIN_PASSWORD", "admin123")
+        return st.secrets.get("ADMIN_PASSWORD", "afaqwaqas")
     except Exception:
         return "afaqwaqas"
 
