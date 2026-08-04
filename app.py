@@ -13,13 +13,13 @@ DURATION_MINUTES = 90
 # On Streamlit Cloud, preferably set ADMIN_PASSWORD in app secrets.
 def get_admin_password():
     try:
-        return st.secrets.get("ADMIN_PASSWORD", "afaqwaqas")
+        return st.secrets.get("ADMIN_PASSWORD", "admin123")
     except Exception:
-        return "afaqwaqas"
+        return "admin123"
 
 ADMIN_PASSWORD = get_admin_password()
 
-st.set_page_config(page_title="ETEA Practice Test", page_icon="📝", layout="wide")
+st.set_page_config(page_title="ETEA Practice Test", page_icon="📝", layout="wide")  
 
 st.markdown("""
 <style>
