@@ -13,7 +13,7 @@ QUESTIONS_FILE = APP_DIR / "questions.json"
 SUBMISSIONS_FILE = APP_DIR / "submissions.jsonl"
 
 # Exam duration requested by the user.
-DURATION_MINUTES = 40
+DURATION_MINUTES = 60
 
 
 # Change this password before using the app with real candidates.
