@@ -3,155 +3,155 @@
     "id": 1,
     "section": "Mathematics",
     "unit": "Unit 5 - Miscellaneous Series",
-    "question": "If $t_n = 5n - 3$, then $t_{n+2} - t_{n-1} =$",
+    "question": "$\\sum_{k=1}^{20} k =$",
     "options": {
-      "A": "$10$",
-      "B": "$15$",
-      "C": "$5$",
-      "D": "$5n + 4$"
+      "A": "$210$",
+      "B": "$200$",
+      "C": "$420$",
+      "D": "$190$"
     },
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 2,
     "section": "Mathematics",
     "unit": "Unit 5 - Miscellaneous Series",
-    "question": "$\\sum_{k=1}^{n} (2k-1)^2 =$",
+    "question": "$\\sum_{k=1}^{n} k^2 =$",
     "options": {
-      "A": "$\\frac{n(2n-1)(2n+1)}{3}$",
-      "B": "$\\frac{n(n+1)(2n+1)}{6}$",
-      "C": "$\\frac{n^2(2n^2-1)}{3}$",
-      "D": "$n^2(2n-1)$"
+      "A": "$\\frac{n(n+1)}{2}$",
+      "B": "$\\frac{n^2(n+1)^2}{4}$",
+      "C": "$\\frac{n(n+1)(2n+1)}{6}$",
+      "D": "$\\frac{n(2n+1)}{6}$"
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 3,
     "section": "Mathematics",
     "unit": "Unit 5 - Miscellaneous Series",
-    "question": "$\\sum_{j=3}^{12}\\frac{1}{j} - \\sum_{j=1}^{10}\\frac{1}{j+2} =$",
+    "question": "$\\sum_{k=1}^{4} \\left(k^2 + 1\\right) =$",
     "options": {
-      "A": "$0$",
-      "B": "$\\frac{1}{12}$",
-      "C": "$\\frac{1}{11}+\\frac{1}{12}$",
-      "D": "$\\frac{1}{2}+\\frac{1}{3}$"
+      "A": "$30$",
+      "B": "$34$",
+      "C": "$32$",
+      "D": "$38$"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 4,
     "section": "Mathematics",
     "unit": "Unit 5 - Miscellaneous Series",
-    "question": "The sum of the first $n$ odd natural numbers differs from the sum of the first $n$ even natural numbers by",
+    "question": "If $t_n = 4n + 1$, then $t_{n+1} - t_n =$",
     "options": {
-      "A": "$n$",
-      "B": "$-n$",
-      "C": "$n^2$",
-      "D": "$0$"
+      "A": "$5$",
+      "B": "$1$",
+      "C": "$4n+5$",
+      "D": "$4$"
     },
-    "answer": "B"
+    "answer": "D"
   },
   {
     "id": 5,
     "section": "Mathematics",
     "unit": "Unit 5 - Miscellaneous Series",
-    "question": "The $n$th term of the series $1\\cdot 4 + 2\\cdot 7 + 3\\cdot 10 + \\cdots$ is",
+    "question": "The sum of the first $n$ even natural numbers is",
     "options": {
-      "A": "$n(3n+1)$",
-      "B": "$3n^2+n$",
-      "C": "Both $n(3n+1)$ and $3n^2+n$",
-      "D": "$n(n+3)$"
-    },
-    "answer": "C"
-  },
-  {
-    "id": 6,
-    "section": "Mathematics",
-    "unit": "Unit 5 - Miscellaneous Series",
-    "question": "The series $\\frac{2}{3} + \\frac{5}{9} + \\frac{8}{27} + \\frac{11}{81} + \\cdots$ is",
-    "options": {
-      "A": "a geometric series",
-      "B": "an arithmetic series",
-      "C": "an arithmetico-geometric series",
-      "D": "a harmonic series"
-    },
-    "answer": "C"
-  },
-  {
-    "id": 7,
-    "section": "Mathematics",
-    "unit": "Unit 5 - Miscellaneous Series",
-    "question": "For $n \\in \\mathbb{N}$, $\\sum_{k=1}^{2n}(-1)^{k+1} =$",
-    "options": {
-      "A": "$1$",
-      "B": "$0$",
-      "C": "$-1$",
+      "A": "$n^2$",
+      "B": "$n(n+1)$",
+      "C": "$\\frac{n(n+1)}{2}$",
       "D": "$2n$"
     },
     "answer": "B"
   },
   {
+    "id": 6,
+    "section": "Mathematics",
+    "unit": "Unit 5 - Miscellaneous Series",
+    "question": "The series $1 + \\frac{2}{3} + \\frac{3}{9} + \\frac{4}{27} + \\cdots$ is",
+    "options": {
+      "A": "a geometric series",
+      "B": "an arithmetic series",
+      "C": "a harmonic series",
+      "D": "an arithmetico-geometric series"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 7,
+    "section": "Mathematics",
+    "unit": "Unit 5 - Miscellaneous Series",
+    "question": "$\\sum_{k=1}^{n} k^3 =$",
+    "options": {
+      "A": "$\\frac{n^2(n+1)^2}{4}$",
+      "B": "$\\frac{n(n+1)}{2}$",
+      "C": "$\\frac{n(n+1)(2n+1)}{6}$",
+      "D": "$n^3$"
+    },
+    "answer": "A"
+  },
+  {
     "id": 8,
     "section": "Mathematics",
     "unit": "Unit 5 - Miscellaneous Series",
-    "question": "The sum of $\\frac{1}{3\\cdot 7} + \\frac{1}{7\\cdot 11} + \\frac{1}{11\\cdot 15} + \\cdots$ to infinity is",
+    "question": "The sum of $\\frac{1}{1\\cdot 2} + \\frac{1}{2\\cdot 3} + \\frac{1}{3\\cdot 4} + \\cdots$ to infinity is",
     "options": {
-      "A": "$\\frac{1}{12}$",
-      "B": "$\\frac{1}{4}$",
-      "C": "$\\frac{1}{3}$",
-      "D": "$\\frac{1}{21}$"
+      "A": "$\\frac{1}{2}$",
+      "B": "$2$",
+      "C": "$1$",
+      "D": "$\\frac{1}{4}$"
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 9,
     "section": "Mathematics",
     "unit": "Unit 5 - Miscellaneous Series",
-    "question": "If the $n$th term of a series is $n^3 + 2^n$, then the sum to $n$ terms is",
+    "question": "The $n$th term of the series $1\\cdot 2 + 2\\cdot 3 + 3\\cdot 4 + \\cdots$ is",
     "options": {
-      "A": "$\\frac{n^2(n+1)^2}{4} + 2^n - 1$",
-      "B": "$\\frac{n^2(n+1)^2}{4} + 2^{n+1} - 2$",
-      "C": "$\\frac{n^2(n+1)^2}{4} + 2^{n+1}$",
-      "D": "$\\frac{n(n+1)(2n+1)}{6} + 2^{n+1} - 2$"
+      "A": "$n^2$",
+      "B": "$n(n+2)$",
+      "C": "$n(n+1)$",
+      "D": "$(n+1)(n+2)$"
     },
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 10,
     "section": "Mathematics",
     "unit": "Unit 5 - Miscellaneous Series",
-    "question": "Evaluate $\\sum_{r=1}^{8}\\left(2 + 3^{r}\\right)$",
+    "question": "$\\sum_{r=1}^{5} 2^{r} =$",
     "options": {
-      "A": "$9856$",
-      "B": "$9840$",
-      "C": "$3296$",
-      "D": "$9872$"
+      "A": "$62$",
+      "B": "$63$",
+      "C": "$31$",
+      "D": "$64$"
     },
     "answer": "A"
   },
   {
     "id": 11,
     "section": "Mathematics",
-    "unit": "Unit 5 - Miscellaneous Series",
-    "question": "In the method of differences, if $a_j = b_{j+1} - b_j$, then $\\sum_{j=1}^{n} a_j$ equals",
+    "unit": "Unit 7 - Mathematical Induction and Binomial Theorem",
+    "question": "The number of terms in the expansion of $(x+y)^{12}$ is",
     "options": {
-      "A": "$b_n - b_1$",
-      "B": "$b_{n+1} - b_1$",
-      "C": "$b_{n+1} - b_0$",
-      "D": "$b_1 - b_{n+1}$"
+      "A": "$12$",
+      "B": "$11$",
+      "C": "$24$",
+      "D": "$13$"
     },
-    "answer": "B"
+    "answer": "D"
   },
   {
     "id": 12,
     "section": "Mathematics",
     "unit": "Unit 7 - Mathematical Induction and Binomial Theorem",
-    "question": "In proving a statement $S(n)$ by mathematical induction, after verifying $S(1)$ we must show that",
+    "question": "In the expansion of $(a+b)^{10}$, the middle term is the",
     "options": {
-      "A": "$S(k)$ is true for every $k$",
-      "B": "$S(k+1)$ is true whenever $S(k)$ is assumed true",
-      "C": "$S(k)$ is true whenever $S(k+1)$ is true",
-      "D": "$S(k+1)$ is true for $k = 1$ only"
+      "A": "5th term",
+      "B": "6th term",
+      "C": "11th term",
+      "D": "4th term"
     },
     "answer": "B"
   },
@@ -159,64 +159,64 @@
     "id": 13,
     "section": "Mathematics",
     "unit": "Unit 7 - Mathematical Induction and Binomial Theorem",
-    "question": "The number of terms in the expansion of $\\left(x + \\sqrt{y}\\right)^{12} - \\left(x - \\sqrt{y}\\right)^{12}$ is",
+    "question": "The general term $T_{r+1}$ in the expansion of $(a+b)^n$ is",
     "options": {
-      "A": "$13$",
-      "B": "$12$",
-      "C": "$6$",
-      "D": "$7$"
+      "A": "$\\binom{n}{r} a^{r} b^{n-r}$",
+      "B": "$\\binom{n}{r-1} a^{n-r} b^{r}$",
+      "C": "$\\binom{n}{r} a^{n-r-1} b^{r+1}$",
+      "D": "$\\binom{n}{r} a^{n-r} b^{r}$"
     },
-    "answer": "C"
+    "answer": "D"
   },
   {
     "id": 14,
     "section": "Mathematics",
     "unit": "Unit 7 - Mathematical Induction and Binomial Theorem",
-    "question": "The middle term in the expansion of $\\left(3x^2 - \\frac{1}{3x}\\right)^{6}$ is",
+    "question": "The sum of the binomial coefficients in the expansion of $(1+x)^{6}$ is",
     "options": {
-      "A": "$-20x^3$",
-      "B": "$20x^3$",
-      "C": "$-540x^3$",
-      "D": "$540x^3$"
+      "A": "$32$",
+      "B": "$64$",
+      "C": "$128$",
+      "D": "$63$"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 15,
     "section": "Mathematics",
     "unit": "Unit 7 - Mathematical Induction and Binomial Theorem",
-    "question": "The general term $T_{r+1}$ in the expansion of $(a - b)^n$ is",
+    "question": "The expansion of $(1-2x)^{-1}$ is valid only if",
     "options": {
-      "A": "$\\binom{n}{r} a^{n-r} b^{r}$",
-      "B": "$(-1)^r\\binom{n}{r} a^{n-r} b^{r}$",
-      "C": "$(-1)^r \\binom{n}{r} a^{r} b^{n-r}$",
-      "D": "$(-1)^{r+1}\\binom{n}{r}a^{n-r}b^{r}$"
+      "A": "$|x| < 2$",
+      "B": "$|x| < 1$",
+      "C": "$|x| < \\frac{1}{2}$",
+      "D": "$|x| > \\frac{1}{2}$"
     },
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 16,
     "section": "Mathematics",
     "unit": "Unit 7 - Mathematical Induction and Binomial Theorem",
-    "question": "The expansion of $(4 - 3x)^{-1/2}$ is valid only if",
+    "question": "The 4th term in the expansion of $(x+2)^{5}$ is",
     "options": {
-      "A": "$|x| < 3$",
-      "B": "$|x| < \\frac{4}{3}$",
-      "C": "$|x| < \\frac{3}{4}$",
-      "D": "$|x| > \\frac{4}{3}$"
+      "A": "$80x^2$",
+      "B": "$40x^2$",
+      "C": "$80x^3$",
+      "D": "$10x^2$"
     },
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 17,
     "section": "Mathematics",
     "unit": "Unit 7 - Mathematical Induction and Binomial Theorem",
-    "question": "The coefficient of $x^{6}y^{3}$ in the expansion of $\\left(x^{2} - 2y\\right)^{6}$ is",
+    "question": "In the expansion of $(a-b)^{n}$, the terms are",
     "options": {
-      "A": "$-160$",
-      "B": "$160$",
-      "C": "$-20$",
-      "D": "The term does not occur"
+      "A": "alternately positive and negative",
+      "B": "all positive",
+      "C": "all negative",
+      "D": "positive only when $n$ is even"
     },
     "answer": "A"
   },
@@ -224,129 +224,129 @@
     "id": 18,
     "section": "Mathematics",
     "unit": "Unit 7 - Mathematical Induction and Binomial Theorem",
-    "question": "$\\binom{n}{0} + \\binom{n}{1} + \\binom{n}{2} + \\cdots + \\binom{n}{n} =$",
+    "question": "If $n$ is odd, the number of middle terms in the expansion of $(a+b)^n$ is",
     "options": {
-      "A": "$2^{n-1}$",
-      "B": "$2^n$",
-      "C": "$2^n - 1$",
-      "D": "$n^2$"
+      "A": "one",
+      "B": "three",
+      "C": "two",
+      "D": "none"
     },
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 19,
     "section": "Mathematics",
     "unit": "Unit 7 - Mathematical Induction and Binomial Theorem",
-    "question": "If the coefficients of the 5th and 11th terms in the expansion of $(1+x)^n$ are equal, then $n =$",
+    "question": "In a proof by mathematical induction, the first step is to verify the statement for",
     "options": {
-      "A": "$14$",
-      "B": "$15$",
-      "C": "$16$",
-      "D": "$13$"
+      "A": "$n = k$",
+      "B": "$n = 1$",
+      "C": "$n = k+1$",
+      "D": "all $n \\in \\mathbb{N}$"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 20,
     "section": "Mathematics",
     "unit": "Unit 7 - Mathematical Induction and Binomial Theorem",
-    "question": "In the expansion of $(1+x)^n$, if $n$ is a negative integer or a fraction, the expansion",
+    "question": "The coefficient of $x^{2}$ in the expansion of $(1+x)^{7}$ is",
     "options": {
-      "A": "terminates after $n$ terms",
-      "B": "terminates after $n+1$ terms",
-      "C": "never terminates",
-      "D": "terminates after $n+2$ terms"
+      "A": "$7$",
+      "B": "$35$",
+      "C": "$14$",
+      "D": "$21$"
     },
-    "answer": "C"
+    "answer": "D"
   },
   {
     "id": 21,
     "section": "Mathematics",
-    "unit": "Unit 7 - Mathematical Induction and Binomial Theorem",
-    "question": "If $x$ is so small that $x^2$ and higher powers may be neglected, then $\\frac{\\sqrt{1+2x}}{(1-x)^{2}} \\approx$",
+    "unit": "Unit 8 - Functions and Graphs",
+    "question": "A curve in the plane represents a function if and only if every vertical line meets the curve in",
     "options": {
-      "A": "$1 + 3x$",
-      "B": "$1 + x$",
-      "C": "$1 - 3x$",
-      "D": "$1 + 2x$"
+      "A": "at least one point",
+      "B": "at most one point",
+      "C": "exactly two points",
+      "D": "infinitely many points"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 22,
     "section": "Mathematics",
-    "unit": "Unit 7 - Mathematical Induction and Binomial Theorem",
-    "question": "$\\left(\\sqrt{3}+1\\right)^{4} + \\left(\\sqrt{3}-1\\right)^{4} =$",
+    "unit": "Unit 8 - Functions and Graphs",
+    "question": "The graph of $y = x^{3}$ is symmetric about",
     "options": {
-      "A": "$56$",
-      "B": "$56\\sqrt{3}$",
-      "C": "$112$",
-      "D": "$28$"
+      "A": "the $y$-axis",
+      "B": "the $x$-axis",
+      "C": "the line $y = x$",
+      "D": "the origin"
     },
-    "answer": "A"
+    "answer": "D"
   },
   {
     "id": 23,
     "section": "Mathematics",
-    "unit": "Unit 7 - Mathematical Induction and Binomial Theorem",
-    "question": "The constant term in the expansion of $\\left(\\frac{3}{x} + \\frac{x^2}{2}\\right)^{9}$ is",
+    "unit": "Unit 8 - Functions and Graphs",
+    "question": "The graph of $y = x^{2} - 4x + 3$ cuts the $x$-axis at the points",
     "options": {
-      "A": "$\\frac{9!}{6!\\,3!}\\cdot\\frac{27}{8}$",
-      "B": "$\\frac{9!}{6!\\,3!}\\cdot\\frac{3^6}{2^3}$",
-      "C": "$\\frac{9!}{3!\\,6!}\\cdot\\frac{3^3}{2^6}$",
-      "D": "There is no constant term"
+      "A": "$(1,0)$ and $(3,0)$",
+      "B": "$(0,1)$ and $(0,3)$",
+      "C": "$(-1,0)$ and $(-3,0)$",
+      "D": "$(2,0)$ and $(3,0)$"
     },
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 24,
     "section": "Mathematics",
     "unit": "Unit 8 - Functions and Graphs",
-    "question": "If $X$ has 4 elements and $Y$ has 3 elements, then the number of ordered pairs in $Y \\times X$ is",
+    "question": "The vertex of the parabola $y = (x-2)^{2} + 3$ is",
     "options": {
-      "A": "$7$",
-      "B": "$12$",
-      "C": "$81$",
-      "D": "$64$"
+      "A": "$(-2, 3)$",
+      "B": "$(2, -3)$",
+      "C": "$(2, 3)$",
+      "D": "$(3, 2)$"
     },
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 25,
     "section": "Mathematics",
     "unit": "Unit 8 - Functions and Graphs",
-    "question": "The domain of $f(x) = \\sqrt{\\frac{x-3}{2-x}}$ is",
+    "question": "The graph of $y = -3x^{2} + 2$ is a parabola which opens",
     "options": {
-      "A": "$(2, 3]$",
-      "B": "$[2, 3)$",
-      "C": "$(-\\infty,2)\\cup[3,\\infty)$",
-      "D": "$(2,3)$"
+      "A": "upward",
+      "B": "to the right",
+      "C": "downward",
+      "D": "to the left"
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 26,
     "section": "Mathematics",
     "unit": "Unit 8 - Functions and Graphs",
-    "question": "If $f(x) = \\frac{3x}{x-2}$, then $\\left[f(4)\\right]^{-1} =$",
+    "question": "The graph of $y = \\frac{1}{x}$ lies entirely in quadrants",
     "options": {
-      "A": "$6$",
-      "B": "$\\frac{1}{6}$",
-      "C": "$-6$",
-      "D": "$\\frac{2}{3}$"
+      "A": "I and III",
+      "B": "I and II",
+      "C": "II and IV",
+      "D": "I and IV"
     },
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 27,
     "section": "Mathematics",
     "unit": "Unit 8 - Functions and Graphs",
-    "question": "Let $A = \\{-2,-1,0,1,2\\}$ and $f : A \\to \\mathbb{R}$ be defined by $f(x) = x^2 - 1$. Then $f$ is",
+    "question": "The graphs of $y = 2x + 1$ and $y = x + 3$ intersect at the point",
     "options": {
-      "A": "one-to-one but not onto",
-      "B": "onto but not one-to-one",
-      "C": "bijective",
-      "D": "neither one-to-one nor onto"
+      "A": "$(2, 3)$",
+      "B": "$(5, 2)$",
+      "C": "$(1, 3)$",
+      "D": "$(2, 5)$"
     },
     "answer": "D"
   },
@@ -354,103 +354,103 @@
     "id": 28,
     "section": "Mathematics",
     "unit": "Unit 8 - Functions and Graphs",
-    "question": "If $f(x) = \\frac{4x-1}{3}$, then $f^{-1}(x) =$",
+    "question": "The domain of $f(x) = \\frac{1}{x-3}$ is",
     "options": {
-      "A": "$\\frac{3x+1}{4}$",
-      "B": "$\\frac{3}{4x-1}$",
-      "C": "$\\frac{3x-1}{4}$",
-      "D": "$\\frac{4x+1}{3}$"
+      "A": "$\\mathbb{R} - \\{0\\}$",
+      "B": "$\\mathbb{R} - \\{3\\}$",
+      "C": "$\\mathbb{R} - \\{-3\\}$",
+      "D": "$\\mathbb{R}$"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 29,
     "section": "Mathematics",
     "unit": "Unit 8 - Functions and Graphs",
-    "question": "For a function $f$ to possess an inverse, $f$ must be",
+    "question": "If $f(x) = 5x - 2$, then $f^{-1}(x) =$",
     "options": {
-      "A": "one-to-one only",
-      "B": "onto only",
-      "C": "both one-to-one and onto",
-      "D": "quadratic"
+      "A": "$\\frac{x-2}{5}$",
+      "B": "$\\frac{5}{x-2}$",
+      "C": "$5x + 2$",
+      "D": "$\\frac{x+2}{5}$"
     },
-    "answer": "C"
+    "answer": "D"
   },
   {
     "id": 30,
     "section": "Mathematics",
     "unit": "Unit 8 - Functions and Graphs",
-    "question": "If $f(3x - 1) = 9x^2 - 3x + 4$, then $f(2) =$",
+    "question": "If $f(x) = x^{2} + 1$, then $f(-3) =$",
     "options": {
-      "A": "$10$",
-      "B": "$14$",
-      "C": "$4$",
-      "D": "$22$"
+      "A": "$-8$",
+      "B": "$10$",
+      "C": "$8$",
+      "D": "$-10$"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "id": 31,
     "section": "Mathematics",
-    "unit": "Unit 8 - Functions and Graphs",
-    "question": "The vertex of the parabola $y = 2x^2 - 8x + 5$ is",
+    "unit": "Unit 9 - Linear Programming",
+    "question": "The graph of the inequality $x \\ge 0$ is the region",
     "options": {
-      "A": "$(2, -3)$",
-      "B": "$(-2, -3)$",
-      "C": "$(2, 3)$",
-      "D": "$(-2, 29)$"
+      "A": "to the right of the $y$-axis, excluding the $y$-axis",
+      "B": "above the $x$-axis, including the $x$-axis",
+      "C": "to the right of the $y$-axis, including the $y$-axis",
+      "D": "consisting of the $y$-axis only"
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 32,
     "section": "Mathematics",
-    "unit": "Unit 8 - Functions and Graphs",
-    "question": "If $f(x) = x^2 + \\frac{1}{x^2}$, then $f(x) - f\\!\\left(\\frac{1}{x}\\right) =$",
+    "unit": "Unit 9 - Linear Programming",
+    "question": "The inequality $ax + by < c$ represents",
     "options": {
-      "A": "$0$",
-      "B": "$2x^2$",
-      "C": "$-2$",
-      "D": "None of these"
+      "A": "an open half plane",
+      "B": "a closed half plane",
+      "C": "a straight line",
+      "D": "a bounded region"
     },
     "answer": "A"
   },
   {
     "id": 33,
     "section": "Mathematics",
-    "unit": "Unit 8 - Functions and Graphs",
-    "question": "The graph of $y = \\frac{1}{x^{3}}$ is symmetric about",
+    "unit": "Unit 9 - Linear Programming",
+    "question": "A point of the solution region where two of its boundary lines intersect is called",
     "options": {
-      "A": "the $y$-axis",
-      "B": "the origin",
-      "C": "the $x$-axis",
-      "D": "the line $y = x$"
+      "A": "a corner point",
+      "B": "a feasible point",
+      "C": "an optimal point",
+      "D": "a decision variable"
     },
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 34,
     "section": "Mathematics",
-    "unit": "Unit 8 - Functions and Graphs",
-    "question": "The points of intersection of the graphs of $f(x) = x^2 - 4$ and $g(x) = 3x$ lie in the",
+    "unit": "Unit 9 - Linear Programming",
+    "question": "In a linear programming problem, the objective function has the form",
     "options": {
-      "A": "1st and 3rd quadrants",
-      "B": "1st and 2nd quadrants",
-      "C": "2nd and 4th quadrants",
-      "D": "1st and 4th quadrants"
+      "A": "$f(x,y) = ax + by + c^2$",
+      "B": "$f(x,y) = ax^2 + by$",
+      "C": "$f(x,y) = ax + by$",
+      "D": "$f(x,y) = (ax)(by)$"
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 35,
     "section": "Mathematics",
     "unit": "Unit 9 - Linear Programming",
-    "question": "A linear inequality in two variables $ax + by \\le c$ represents",
+    "question": "Which of the following is NOT a solution of $2x + 3y \\le 12$?",
     "options": {
-      "A": "an open half plane",
-      "B": "a closed half plane",
-      "C": "a straight line",
-      "D": "a convex polygon"
+      "A": "$(0, 4)$",
+      "B": "$(6, 1)$",
+      "C": "$(3, 1)$",
+      "D": "$(1, 2)$"
     },
     "answer": "B"
   },
@@ -458,64 +458,64 @@
     "id": 36,
     "section": "Mathematics",
     "unit": "Unit 9 - Linear Programming",
-    "question": "Which of the following is NOT a solution of $5x - 2y \\ge 10$?",
+    "question": "The maximum value of $f(x,y) = 5x + 4y$ over a feasible region with corner points $(0,0)$, $(4,0)$, $(2,5)$ and $(0,6)$ is",
     "options": {
-      "A": "$(2, 0)$",
-      "B": "$(4, 6)$",
-      "C": "$(0, -5)$",
-      "D": "$(3, 1)$"
+      "A": "$20$",
+      "B": "$24$",
+      "C": "$26$",
+      "D": "$30$"
     },
-    "answer": "B"
+    "answer": "D"
   },
   {
     "id": 37,
     "section": "Mathematics",
     "unit": "Unit 9 - Linear Programming",
-    "question": "The constraints $x \\ge 0$, $y \\ge 0$ in a linear programming problem are called",
+    "question": "The solution region of a system of linear inequalities is said to be bounded if",
     "options": {
-      "A": "decision constraints",
-      "B": "problem constraints",
-      "C": "non-negative constraints",
-      "D": "the objective function"
+      "A": "it cannot be enclosed within any circle",
+      "B": "it can be enclosed within a circle of sufficiently large radius",
+      "C": "it has exactly four corner points",
+      "D": "it lies entirely in the first quadrant"
     },
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 38,
     "section": "Mathematics",
     "unit": "Unit 9 - Linear Programming",
-    "question": "The maximum value of $f(x, y) = 4x + 3y$ over the feasible region with corner points $(0,0)$, $(5,0)$, $(3,4)$ and $(0,6)$ is",
+    "question": "The constraints $x \\ge 0$ and $y \\ge 0$ in a linear programming problem are called",
     "options": {
-      "A": "$20$",
-      "B": "$24$",
-      "C": "$18$",
-      "D": "$26$"
+      "A": "problem constraints",
+      "B": "the objective function",
+      "C": "decision constraints",
+      "D": "non-negative constraints"
     },
-    "answer": "B"
+    "answer": "D"
   },
   {
     "id": 39,
     "section": "Mathematics",
     "unit": "Unit 9 - Linear Programming",
-    "question": "The point of intersection of two or more boundary lines of a feasible region is called",
+    "question": "The number of corner points of the solution region of $x + y \\le 4$, $x \\ge 0$, $y \\ge 0$ is",
     "options": {
-      "A": "a feasible point",
-      "B": "a corner point",
-      "C": "an optimal point",
-      "D": "a decision variable"
+      "A": "$3$",
+      "B": "$2$",
+      "C": "$4$",
+      "D": "infinitely many"
     },
-    "answer": "B"
+    "answer": "A"
   },
   {
     "id": 40,
     "section": "Mathematics",
     "unit": "Unit 9 - Linear Programming",
-    "question": "The graph of $y \\ge 0$ consists of",
+    "question": "The minimum value of $f(x,y) = 2x + 3y$ over a feasible region with corner points $(1,1)$, $(4,0)$ and $(0,5)$ is",
     "options": {
-      "A": "the $x$-axis only",
-      "B": "the region above the $x$-axis, excluding the axis",
-      "C": "the region above the $x$-axis, including the axis",
-      "D": "the region to the right of the $y$-axis"
+      "A": "$8$",
+      "B": "$15$",
+      "C": "$5$",
+      "D": "$0$"
     },
     "answer": "C"
   }
